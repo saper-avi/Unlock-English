@@ -1,0 +1,5 @@
+PASS New DEX: checksums, 2 classes, 16 method bodies, exactly 3 runtime-annotated JS methods
+PASS All 16 bridge methods: decoded opcodes, register bounds, invoke prototypes, branch targets and catch handler checked
+PASS Original DEX preserved except MainActivity FINAL flag and checksum/signature; original instructions unchanged
+PASS Manifest: package unchanged, versionCode 4, new activity + backwards-compatible internal alias, TTS query
+PASS All 332 page images and current course JS/CSS packaged byte-for-byte; zero omitted page assets

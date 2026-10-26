@@ -1,0 +1,92 @@
+
+> unlock-english-recovered@0.1.0 test
+> node --test tests/core.test.cjs
+
+TAP version 13
+# Subtest: bank: 96 unique questions, 24 topics, balanced A1–B2
+ok 1 - bank: 96 unique questions, 24 topics, balanced A1–B2
+  ---
+  duration_ms: 1.913878
+  type: 'test'
+  ...
+# Subtest: every quiz answer is valid; choices contain the correct answer
+ok 2 - every quiz answer is valid; choices contain the correct answer
+  ---
+  duration_ms: 0.700042
+  type: 'test'
+  ...
+# Subtest: normalization accepts case/whitespace but not a different tense
+ok 3 - normalization accepts case/whitespace but not a different tense
+  ---
+  duration_ms: 0.156225
+  type: 'test'
+  ...
+# Subtest: daily mission is deterministic and uses the selected level
+ok 4 - daily mission is deterministic and uses the selected level
+  ---
+  duration_ms: 1.202548
+  type: 'test'
+  ...
+# Subtest: daily quiz awards 50 XP and ignores repeat checks after completion
+ok 5 - daily quiz awards 50 XP and ignores repeat checks after completion
+  ---
+  duration_ms: 0.48533
+  type: 'test'
+  ...
+# Subtest: wrong answers require repair and enter tomorrow’s review
+ok 6 - wrong answers require repair and enter tomorrow’s review
+  ---
+  duration_ms: 6.506332
+  type: 'test'
+  ...
+# Subtest: writing and completion rewards are idempotent: 50 + 30 + 20 XP
+ok 7 - writing and completion rewards are idempotent: 50 + 30 + 20 XP
+  ---
+  duration_ms: 1.484863
+  type: 'test'
+  ...
+# Subtest: incomplete mission cannot be completed
+ok 8 - incomplete mission cannot be completed
+  ---
+  duration_ms: 0.150235
+  type: 'test'
+  ...
+# Subtest: all 24 reference texts satisfy the app’s local writing gate
+ok 9 - all 24 reference texts satisfy the app’s local writing gate
+  ---
+  duration_ms: 2.651587
+  type: 'test'
+  ...
+# Subtest: local writing rejects empty/non-English/repetitive input
+ok 10 - local writing rejects empty/non-English/repetitive input
+  ---
+  duration_ms: 0.460332
+  type: 'test'
+  ...
+# Subtest: state restoration preserves draft, progress and active quiz
+ok 11 - state restoration preserves draft, progress and active quiz
+  ---
+  duration_ms: 0.409446
+  type: 'test'
+  ...
+# Subtest: calendar shifts and streak behavior across missing days
+ok 12 - calendar shifts and streak behavior across missing days
+  ---
+  duration_ms: 0.301423
+  type: 'test'
+  ...
+# Subtest: original APK and web assets have their recorded SHA-256 hashes
+ok 13 - original APK and web assets have their recorded SHA-256 hashes
+  ---
+  duration_ms: 1.664613
+  type: 'test'
+  ...
+1..13
+# tests 13
+# suites 0
+# pass 13
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 79.439684

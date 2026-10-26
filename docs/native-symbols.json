@@ -1,0 +1,1206 @@
+{
+  "dex_magic": "dex\n038",
+  "class_count": 30,
+  "classes": [
+    {
+      "descriptor": "Lapp/unlockenglish/AppState$$ExternalSyntheticLambda0;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/AppState;",
+      "source_file": "AppState.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda0;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda1;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda2;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda3;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda4;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService$1;",
+      "source_file": "FocusAccessibilityService.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "source_file": "FocusAccessibilityService.java",
+      "superclass": "Landroid/accessibilityservice/AccessibilityService;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda0;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda1;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda2;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda3;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda4;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda5;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda6;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda7;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$1;",
+      "source_file": "MainActivity.java",
+      "superclass": "Landroid/webkit/WebViewClient;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$Api33Back$$ExternalSyntheticLambda0;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$Api33Back;",
+      "source_file": "MainActivity.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda0;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda1;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda2;",
+      "source_file": "D8$$SyntheticClass",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "source_file": "MainActivity.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/MainActivity;",
+      "source_file": "MainActivity.java",
+      "superclass": "Landroid/app/Activity;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/R$drawable;",
+      "source_file": "R.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/R$string;",
+      "source_file": "R.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/R$style;",
+      "source_file": "R.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/R$xml;",
+      "source_file": "R.java",
+      "superclass": "Ljava/lang/Object;"
+    },
+    {
+      "descriptor": "Lapp/unlockenglish/R;",
+      "source_file": "R.java",
+      "superclass": "Ljava/lang/Object;"
+    }
+  ],
+  "app_method_signatures": [
+    {
+      "class": "Lapp/unlockenglish/AppState$$ExternalSyntheticLambda0;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState$$ExternalSyntheticLambda0;",
+      "name": "apply",
+      "returns": "Ljava/lang/Object;",
+      "parameters": [
+        "Ljava/lang/Object;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "<clinit>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "accessibilityEnabled",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "addResolved",
+      "returns": "V",
+      "parameters": [
+        "Ljava/util/Set;",
+        "Landroid/content/pm/PackageManager;",
+        "Landroid/content/Intent;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "availableApps",
+      "returns": "Lorg/json/JSONArray;",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "dayKey",
+      "returns": "Ljava/lang/String;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "lambda$0",
+      "returns": "Ljava/lang/String;",
+      "parameters": [
+        "Lorg/json/JSONObject;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "missionComplete",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "preferences",
+      "returns": "Landroid/content/SharedPreferences;",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "protectedPackages",
+      "returns": "Ljava/util/Set;",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "selectedPackages",
+      "returns": "Ljava/util/Set;",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "setSelectedApps",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/Context;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/AppState;",
+      "name": "snapshot",
+      "returns": "Lorg/json/JSONObject;",
+      "parameters": [
+        "Landroid/content/Context;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda0;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda0;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda1;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda1;",
+      "name": "onClick",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda2;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda2;",
+      "name": "onClick",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda3;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda3;",
+      "name": "onClick",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda4;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$$ExternalSyntheticLambda4;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$1;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService$1;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "$r8$lambda$vzCoLEjghv-DM9Azlbz-L1UvRLI",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "<clinit>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "access$0",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "access$1",
+      "returns": "Landroid/os/Handler;",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "button",
+      "returns": "Landroid/widget/Button;",
+      "parameters": [
+        "Ljava/lang/String;",
+        "Z"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "dismissForLearning",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "dp",
+      "returns": "I",
+      "parameters": [
+        "I"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "evaluate",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "getPackageName",
+      "returns": "Ljava/lang/String;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "getResources",
+      "returns": "Landroid/content/res/Resources;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "getSystemService",
+      "returns": "Ljava/lang/Object;",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "lambda$0",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/FocusAccessibilityService;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "lambda$1$app-unlockenglish-FocusAccessibilityService",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "lambda$2$app-unlockenglish-FocusAccessibilityService",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "lambda$3$app-unlockenglish-FocusAccessibilityService",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "onAccessibilityEvent",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/accessibility/AccessibilityEvent;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "onDestroy",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "onInterrupt",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "onServiceConnected",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "onSharedPreferenceChanged",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/SharedPreferences;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "performGlobalAction",
+      "returns": "Z",
+      "parameters": [
+        "I"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "removeOverlay",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "showOverlay",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "spaced",
+      "returns": "Landroid/widget/LinearLayout$LayoutParams;",
+      "parameters": [
+        "I",
+        "I"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "startActivity",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/Intent;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/FocusAccessibilityService;",
+      "name": "text",
+      "returns": "Landroid/widget/TextView;",
+      "parameters": [
+        "Ljava/lang/String;",
+        "I",
+        "I"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda0;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda0;",
+      "name": "onApplyWindowInsets",
+      "returns": "Landroid/view/WindowInsets;",
+      "parameters": [
+        "Landroid/view/View;",
+        "Landroid/view/WindowInsets;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda1;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda1;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda2;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda2;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda3;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda3;",
+      "name": "onReceiveValue",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/Object;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda4;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda4;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda5;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda5;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda6;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Landroid/net/Uri;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda6;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda7;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$$ExternalSyntheticLambda7;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$1;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$1;",
+      "name": "onPageFinished",
+      "returns": "V",
+      "parameters": [
+        "Landroid/webkit/WebView;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$1;",
+      "name": "shouldInterceptRequest",
+      "returns": "Landroid/webkit/WebResourceResponse;",
+      "parameters": [
+        "Landroid/webkit/WebView;",
+        "Landroid/webkit/WebResourceRequest;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$1;",
+      "name": "shouldOverrideUrlLoading",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/webkit/WebView;",
+        "Landroid/webkit/WebResourceRequest;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$Api33Back$$ExternalSyntheticLambda0;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/Runnable;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$Api33Back$$ExternalSyntheticLambda0;",
+      "name": "onBackInvoked",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$Api33Back;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$Api33Back;",
+      "name": "register",
+      "returns": "Ljava/lang/Object;",
+      "parameters": [
+        "Landroid/app/Activity;",
+        "Ljava/lang/Runnable;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$Api33Back;",
+      "name": "unregister",
+      "returns": "V",
+      "parameters": [
+        "Landroid/app/Activity;",
+        "Ljava/lang/Object;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda0;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity$NativeBridge;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda0;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda1;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity$NativeBridge;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda1;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda2;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity$NativeBridge;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge$$ExternalSyntheticLambda2;",
+      "name": "run",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "clearEmergencyPause",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "completeMission",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "emergencyPause",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "exportProgress",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "getState",
+      "returns": "Ljava/lang/String;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "importProgress",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "lambda$0$app-unlockenglish-MainActivity$NativeBridge",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "lambda$1$app-unlockenglish-MainActivity$NativeBridge",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "lambda$2$app-unlockenglish-MainActivity$NativeBridge",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "loadState",
+      "returns": "Ljava/lang/String;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "openAccessibilitySettings",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "saveState",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "setFocusEnabled",
+      "returns": "V",
+      "parameters": [
+        "Z"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity$NativeBridge;",
+      "name": "setSelectedApps",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "$r8$lambda$Q7vBOtzeN8AxEQmU7lB9W9HQt6I",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$0",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$1",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$2",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$3",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$4",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;",
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "access$5",
+      "returns": "V",
+      "parameters": [
+        "Lapp/unlockenglish/MainActivity;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "finish",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "getContentResolver",
+      "returns": "Landroid/content/ContentResolver;",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "handleBack",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "isDestroyed",
+      "returns": "Z",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "isFinishing",
+      "returns": "Z",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "isLocalAsset",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "isWeb",
+      "returns": "Z",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$0",
+      "returns": "Landroid/view/WindowInsets;",
+      "parameters": [
+        "Landroid/view/View;",
+        "Landroid/view/WindowInsets;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$2$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$3$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": [
+        "Landroid/net/Uri;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$4$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$5$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$6$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "lambda$7$app-unlockenglish-MainActivity",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "notifyStateChanged",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onActivityResult",
+      "returns": "V",
+      "parameters": [
+        "I",
+        "I",
+        "Landroid/content/Intent;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onBackPressed",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onCreate",
+      "returns": "V",
+      "parameters": [
+        "Landroid/os/Bundle;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onDestroy",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onPause",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onResume",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "onSharedPreferenceChanged",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/SharedPreferences;",
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "openInBrowser",
+      "returns": "V",
+      "parameters": [
+        "Landroid/net/Uri;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "runOnUiThread",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/Runnable;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "setContentView",
+      "returns": "V",
+      "parameters": [
+        "Landroid/view/View;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "showMessage",
+      "returns": "V",
+      "parameters": [
+        "Ljava/lang/String;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "startActivity",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/Intent;"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/MainActivity;",
+      "name": "startActivityForResult",
+      "returns": "V",
+      "parameters": [
+        "Landroid/content/Intent;",
+        "I"
+      ]
+    },
+    {
+      "class": "Lapp/unlockenglish/R$drawable;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/R$string;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/R$style;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/R$xml;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    },
+    {
+      "class": "Lapp/unlockenglish/R;",
+      "name": "<init>",
+      "returns": "V",
+      "parameters": []
+    }
+  ],
+  "note": "Method signatures only; this is NOT decompiled Java source."
+}

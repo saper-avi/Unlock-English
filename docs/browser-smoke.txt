@@ -1,0 +1,5 @@
+NOT COMPLETED: Chromium blocked navigation to the local preview URL with net::ERR_BLOCKED_BY_ADMINISTRATOR.
+No successful UI flow, device test or screenshot is claimed.
+The preview HTTP server could be reached from the local Python process.
+The restriction was not bypassed.
+See test-output.txt for the separately executed 13 successful Node unit/regression tests.

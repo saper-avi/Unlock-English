@@ -1,0 +1,18 @@
+{
+  "environment": "Chromium with intercepted local assets + in-memory storage; native voice is mocked, not Android",
+  "checks": [
+    "Library: 2 source books / 332 pages, responsive at 390 px; no autoplay on startup",
+    "Source reader: original image loaded; zoom, last PDF page, study flag and notes preserved",
+    "Matching: wrong pair retries, exactly 5 cards, first-try score 4/5, +15 XP, no mission bypass",
+    "Active recall: 8 typed answers, local grading, saved spaced-review schedule",
+    "Speaking UI: consent, native-adapter mock, slow TTS, transcript, comparison and saved history; not a physical microphone test",
+    "Open speaking answer: self-check, typed mode labelled separately, no fabricated pronunciation/AI scores",
+    "Four source-topic grammar questions execute through the existing quiz engine",
+    "Intermediate unit 10 writing: adapted task opens in old editor and preserves draft",
+    "Writing example opens the actual source page and returns to the saved draft",
+    "Full-book search reaches grammar supplements, not just the contents page",
+    "Progress survives reload; 1280 px layout and system reduced-motion preference",
+    "No uncaught JavaScript errors"
+  ],
+  "errors": []
+}

@@ -1,0 +1,3 @@
+PASS: v2 RSA/SHA-256 signature, APK content digest, signer certificate and block structure
+Certificate SHA-256: 0c3acb958e60855ec9e510acb82197fbce639bd279689f3d78c81da8b46092be
+PASS: 1 signer; APK Signature Scheme v2 independently verified

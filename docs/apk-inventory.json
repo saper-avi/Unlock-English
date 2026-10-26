@@ -1,0 +1,71 @@
+{
+  "apk_sha256": "55ef8d4c164d105c1c7e01949810ae35f162bbefc5d15ba793341f128c380fcb",
+  "apk_bytes": 78693,
+  "entries": [
+    {
+      "apk_path": "AndroidManifest.xml",
+      "bytes": 4316,
+      "sha256": "be11963c7a5f088bc74907f91dc157c54cddcf60cedeb3fc15b7bb17388e78e8"
+    },
+    {
+      "apk_path": "res/drawable/ic_launcher.xml",
+      "bytes": 884,
+      "sha256": "089babc0ac38d140b92919dd5250675d1e22b8b1b0449e305aab820b93f4d7d0"
+    },
+    {
+      "apk_path": "res/xml/focus_accessibility_service.xml",
+      "bytes": 684,
+      "sha256": "209dbbe44ee28f37e7847f2b38f8528abab43b0f4514ea9336d20577ab8d018e"
+    },
+    {
+      "apk_path": "resources.arsc",
+      "bytes": 1952,
+      "sha256": "fff749587b1ff25c46009eebbf2e97ade1158ff5f7e24ce53324ba6ca4f88422"
+    },
+    {
+      "apk_path": "assets/app.js",
+      "bytes": 54001,
+      "sha256": "ec84cd8186aac11bef0c6110237491f809e1543abee17cfbb19f844424b6f06f"
+    },
+    {
+      "apk_path": "assets/content.js",
+      "bytes": 59096,
+      "sha256": "fb0b3b00019af2ac2891515454e6252852a6896d0bf85ee0022fd46acc22fc96"
+    },
+    {
+      "apk_path": "assets/core.js",
+      "bytes": 13813,
+      "sha256": "c6905c95d9aa43a3f8edd24549db3d3e25683e5357a1633ae342d42ac7487f7f"
+    },
+    {
+      "apk_path": "assets/index.html",
+      "bytes": 1043,
+      "sha256": "9e5c6c95d100c3d331cab3f1e481b35f4abca23b167f3714f68cabbf73972898"
+    },
+    {
+      "apk_path": "assets/style.css",
+      "bytes": 21058,
+      "sha256": "99678e54aa5933a3469b47ee0f555bfec0581327953914c41e2d062c6de8ad01"
+    },
+    {
+      "apk_path": "classes.dex",
+      "bytes": 34448,
+      "sha256": "91ca266d71a38b6c42535aa30db16825006274e4377766d372945bf73effc725"
+    },
+    {
+      "apk_path": "META-INF/ANDROIDD.SF",
+      "bytes": 1060,
+      "sha256": "faa7b835fef3a02e92d23c4a40d4bcef13c4f8cb1fe77dd78e1c8ca028ce0847"
+    },
+    {
+      "apk_path": "META-INF/ANDROIDD.RSA",
+      "bytes": 1167,
+      "sha256": "6f1446e3d28b1a25b7a4a04b8a2384fd8de9b6b508656920b390206f277385ec"
+    },
+    {
+      "apk_path": "META-INF/MANIFEST.MF",
+      "bytes": 933,
+      "sha256": "8feeb05bc98034103e0d282ec39a0eb1c5f5019c1ff37c716560013e6c203ebd"
+    }
+  ]
+}

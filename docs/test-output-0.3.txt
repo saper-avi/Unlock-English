@@ -1,0 +1,440 @@
+
+> unlock-english@0.3.0 test
+> node --test tests/*.test.cjs
+
+TAP version 13
+# Subtest: backend validates consent, bounds, prompt and unexpected fields before any provider call
+ok 1 - backend validates consent, bounds, prompt and unexpected fields before any provider call
+  ---
+  duration_ms: 2.186452
+  type: 'test'
+  ...
+# Subtest: disabled or unconfigured AI is explicit and does not call a provider
+ok 2 - disabled or unconfigured AI is explicit and does not call a provider
+  ---
+  duration_ms: 0.233002
+  type: 'test'
+  ...
+# Subtest: repeated and concurrent submissions share one provider request, returning their own ids
+ok 3 - repeated and concurrent submissions share one provider request, returning their own ids
+  ---
+  duration_ms: 21.836941
+  type: 'test'
+  ...
+# Subtest: an id cannot be reused for different content
+ok 4 - an id cannot be reused for different content
+  ---
+  duration_ms: 0.50364
+  type: 'test'
+  ...
+# Subtest: daily quota persists across restarts and stores no essays or secrets
+ok 5 - daily quota persists across restarts and stores no essays or secrets
+  ---
+  duration_ms: 1.87439
+  type: 'test'
+  ...
+# Subtest: minute and daily limits prevent additional paid requests
+ok 6 - minute and daily limits prevent additional paid requests
+  ---
+  duration_ms: 0.872698
+  type: 'test'
+  ...
+# Subtest: provider failure clears pending state but still consumes an attempt allowance
+ok 7 - provider failure clears pending state but still consumes an attempt allowance
+  ---
+  duration_ms: 0.408097
+  type: 'test'
+  ...
+# Subtest: prompt-injection text stays in untrusted input, not instructions; request has no tools or device permissions
+ok 8 - prompt-injection text stays in untrusted input, not instructions; request has no tools or device permissions
+  ---
+  duration_ms: 0.221083
+  type: 'test'
+  ...
+# Subtest: provider adapter parses and validates a Responses API structured result
+ok 9 - provider adapter parses and validates a Responses API structured result
+  ---
+  duration_ms: 0.736552
+  type: 'test'
+  ...
+# Subtest: provider auth, limits and 5xx return safe messages without leaking upstream secrets
+ok 10 - provider auth, limits and 5xx return safe messages without leaking upstream secrets
+  ---
+  duration_ms: 0.845878
+  type: 'test'
+  ...
+# Subtest: provider refuses truncated, refused, malformed JSON and source-inconsistent feedback
+ok 11 - provider refuses truncated, refused, malformed JSON and source-inconsistent feedback
+  ---
+  duration_ms: 1.06648
+  type: 'test'
+  ...
+# Subtest: provider timeout aborts fetch and gives an explicit recoverable error
+ok 12 - provider timeout aborts fetch and gives an explicit recoverable error
+  ---
+  duration_ms: 4.723011
+  type: 'test'
+  ...
+# Subtest: HTTP API requires auth and a valid same-origin JSON request
+ok 13 - HTTP API requires auth and a valid same-origin JSON request
+  ---
+  duration_ms: 49.37455
+  type: 'test'
+  ...
+# Subtest: HTTP server exposes only public web files, not .env, quota, sources or path traversal
+ok 14 - HTTP server exposes only public web files, not .env, quota, sources or path traversal
+  ---
+  duration_ms: 13.258478
+  type: 'test'
+  ...
+# Subtest: HTTP body and method guards reject oversized, malformed or GET analysis requests
+ok 15 - HTTP body and method guards reject oversized, malformed or GET analysis requests
+  ---
+  duration_ms: 6.458231
+  type: 'test'
+  ...
+# Subtest: HTTP build serves the new motion and sound assets with correct types
+ok 16 - HTTP build serves the new motion and sound assets with correct types
+  ---
+  duration_ms: 5.305531
+  type: 'test'
+  ...
+# Subtest: bank: 96 unique questions, 24 topics, balanced A1–B2
+ok 17 - bank: 96 unique questions, 24 topics, balanced A1–B2
+  ---
+  duration_ms: 1.853528
+  type: 'test'
+  ...
+# Subtest: every quiz answer is valid; choices contain the correct answer
+ok 18 - every quiz answer is valid; choices contain the correct answer
+  ---
+  duration_ms: 0.739988
+  type: 'test'
+  ...
+# Subtest: normalization accepts case/whitespace but not a different tense
+ok 19 - normalization accepts case/whitespace but not a different tense
+  ---
+  duration_ms: 0.164258
+  type: 'test'
+  ...
+# Subtest: daily mission is deterministic and uses the selected level
+ok 20 - daily mission is deterministic and uses the selected level
+  ---
+  duration_ms: 1.292752
+  type: 'test'
+  ...
+# Subtest: daily quiz awards 50 XP and ignores repeat checks after completion
+ok 21 - daily quiz awards 50 XP and ignores repeat checks after completion
+  ---
+  duration_ms: 0.517722
+  type: 'test'
+  ...
+# Subtest: wrong answers require repair and enter tomorrow’s review
+ok 22 - wrong answers require repair and enter tomorrow’s review
+  ---
+  duration_ms: 6.960139
+  type: 'test'
+  ...
+# Subtest: writing and completion rewards are idempotent: 50 + 30 + 20 XP
+ok 23 - writing and completion rewards are idempotent: 50 + 30 + 20 XP
+  ---
+  duration_ms: 1.224388
+  type: 'test'
+  ...
+# Subtest: incomplete mission cannot be completed
+ok 24 - incomplete mission cannot be completed
+  ---
+  duration_ms: 0.126491
+  type: 'test'
+  ...
+# Subtest: all 24 reference texts satisfy the app’s local writing gate
+ok 25 - all 24 reference texts satisfy the app’s local writing gate
+  ---
+  duration_ms: 2.366022
+  type: 'test'
+  ...
+# Subtest: local writing rejects empty/non-English/repetitive input
+ok 26 - local writing rejects empty/non-English/repetitive input
+  ---
+  duration_ms: 0.408837
+  type: 'test'
+  ...
+# Subtest: state restoration preserves draft, progress and active quiz
+ok 27 - state restoration preserves draft, progress and active quiz
+  ---
+  duration_ms: 0.478303
+  type: 'test'
+  ...
+# Subtest: calendar shifts and streak behavior across missing days
+ok 28 - calendar shifts and streak behavior across missing days
+  ---
+  duration_ms: 0.194524
+  type: 'test'
+  ...
+# Subtest: preserved original APK and assets have their recorded SHA-256 hashes
+ok 29 - preserved original APK and assets have their recorded SHA-256 hashes
+  ---
+  duration_ms: 1.259542
+  type: 'test'
+  ...
+# Subtest: fixed demonstration obeys the response contract and references real source fragments
+ok 30 - fixed demonstration obeys the response contract and references real source fragments
+  ---
+  duration_ms: 1.318181
+  type: 'test'
+  ...
+# Subtest: stable sentence ids distinguish repeated fragments across sentences and Unicode
+ok 31 - stable sentence ids distinguish repeated fragments across sentences and Unicode
+  ---
+  duration_ms: 1.171108
+  type: 'test'
+  ...
+# Subtest: nonexistent fragments, invalid category, duplicate errors and artificial no-op fixes are rejected
+ok 32 - nonexistent fragments, invalid category, duplicate errors and artificial no-op fixes are rejected
+  ---
+  duration_ms: 0.493355
+  type: 'test'
+  ...
+# Subtest: strict schema rejects extra fields, string scores and grades outside 0–10
+ok 33 - strict schema rejects extra fields, string scores and grades outside 0–10
+  ---
+  duration_ms: 0.396368
+  type: 'test'
+  ...
+# Subtest: a correct text may return zero errors and a null score
+ok 34 - a correct text may return zero errors and a null score
+  ---
+  duration_ms: 0.16522
+  type: 'test'
+  ...
+# Subtest: cannot_assess has no invented scores, edits, suggestions or learning priorities
+ok 35 - cannot_assess has no invented scores, edits, suggestions or learning priorities
+  ---
+  duration_ms: 0.181995
+  type: 'test'
+  ...
+# Subtest: reviews migrate safely, deduplicate identical versions, and never change mission or XP
+ok 36 - reviews migrate safely, deduplicate identical versions, and never change mission or XP
+  ---
+  duration_ms: 0.541047
+  type: 'test'
+  ...
+# Subtest: past-simple feedback selects real A2 bank questions, not generated content
+ok 37 - past-simple feedback selects real A2 bank questions, not generated content
+  ---
+  duration_ms: 1.05261
+  type: 'test'
+  ...
+# Subtest: preferred questions affect only a new day, with at most two and no cross-level duplicates
+ok 38 - preferred questions affect only a new day, with at most two and no cross-level duplicates
+  ---
+  duration_ms: 0.669862
+  type: 'test'
+  ...
+# Subtest: saving unchanged writing is idempotent for history and XP; a revised version is retained
+ok 39 - saving unchanged writing is idempotent for history and XP; a revised version is retained
+  ---
+  duration_ms: 1.578313
+  type: 'test'
+  ...
+# Subtest: client refuses an OpenAI key in place of a personal server token without a network call
+ok 40 - client refuses an OpenAI key in place of a personal server token without a network call
+  ---
+  duration_ms: 0.444531
+  type: 'test'
+  ...
+# Subtest: client validates submission identity and server-origin source
+ok 41 - client validates submission identity and server-origin source
+  ---
+  duration_ms: 0.275506
+  type: 'test'
+  ...
+# Subtest: client cancellation releases pending state and does not erase user data
+ok 42 - client cancellation releases pending state and does not erase user data
+  ---
+  duration_ms: 0.33764
+  type: 'test'
+  ...
+# Subtest: content bank is byte-identical to the recovered original
+ok 43 - content bank is byte-identical to the recovered original
+  ---
+  duration_ms: 0.301375
+  type: 'test'
+  ...
+# Subtest: standalone preview has seven ordered inline scripts with matching CSP hashes and no network permission
+ok 44 - standalone preview has seven ordered inline scripts with matching CSP hashes and no network permission
+  ---
+  duration_ms: 5.402207
+  type: 'test'
+  ...
+# Subtest: default configuration leaves AI disabled and API key blank
+ok 45 - default configuration leaves AI disabled and API key blank
+  ---
+  duration_ms: 1.002153
+  type: 'test'
+  ...
+# Subtest: UI controller renders onboarding, writing topics, practice and progress without runtime errors
+ok 46 - UI controller renders onboarding, writing topics, practice and progress without runtime errors
+  ---
+  duration_ms: 28.655827
+  type: 'test'
+  ...
+# Subtest: demo modal does not send a request, replace the draft, award XP or add a review
+ok 47 - demo modal does not send a request, replace the draft, award XP or add a review
+  ---
+  duration_ms: 5.674247
+  type: 'test'
+  ...
+# Subtest: AI review is sent only after consent; result is saved separately from mission and tokens
+ok 48 - AI review is sent only after consent; result is saved separately from mission and tokens
+  ---
+  duration_ms: 9.493654
+  type: 'test'
+  ...
+# Subtest: feedback received after editing is not attached to the new draft
+ok 49 - feedback received after editing is not attached to the new draft
+  ---
+  duration_ms: 7.293933
+  type: 'test'
+  ...
+# Subtest: model text is escaped, not rendered as executable HTML
+ok 50 - model text is escaped, not rendered as executable HTML
+  ---
+  duration_ms: 5.162965
+  type: 'test'
+  ...
+# Subtest: a failed AI review retains the draft and local writing can still be saved
+ok 51 - a failed AI review retains the draft and local writing can still be saved
+  ---
+  duration_ms: 4.041993
+  type: 'test'
+  ...
+# Subtest: AI recommendations populate real practice and review history can be opened
+ok 52 - AI recommendations populate real practice and review history can be opened
+  ---
+  duration_ms: 6.993019
+  type: 'test'
+  ...
+# Subtest: UX demo never changes learning progress or awards XP
+ok 53 - UX demo never changes learning progress or awards XP
+  ---
+  duration_ms: 2.776963
+  type: 'test'
+  ...
+# Subtest: answer feedback is emitted once per check, never on duplicate checks
+ok 54 - answer feedback is emitted once per check, never on duplicate checks
+  ---
+  duration_ms: 3.566394
+  type: 'test'
+  ...
+# Subtest: mission celebrates once when writing follows the quiz; revisiting does not repeat it
+ok 55 - mission celebrates once when writing follows the quiz; revisiting does not repeat it
+  ---
+  duration_ms: 4.797864
+  type: 'test'
+  ...
+# Subtest: mission celebrates when writing is completed before the quiz
+ok 56 - mission celebrates when writing is completed before the quiz
+  ---
+  duration_ms: 4.028793
+  type: 'test'
+  ...
+# Subtest: sound and motion settings do not overwrite learning state
+ok 57 - sound and motion settings do not overwrite learning state
+  ---
+  duration_ms: 2.321766
+  type: 'test'
+  ...
+# Subtest: preferences normalize missing, corrupt and out-of-range values
+ok 58 - preferences normalize missing, corrupt and out-of-range values
+  ---
+  duration_ms: 2.178419
+  type: 'test'
+  ...
+# Subtest: no audio context or cue before a user interaction
+ok 59 - no audio context or cue before a user interaction
+  ---
+  duration_ms: 0.498302
+  type: 'test'
+  ...
+# Subtest: distinct correct and error cues schedule bounded oscillator envelopes
+ok 60 - distinct correct and error cues schedule bounded oscillator envelopes
+  ---
+  duration_ms: 1.809753
+  type: 'test'
+  ...
+# Subtest: one shared audio context is reused across all cues
+ok 61 - one shared audio context is reused across all cues
+  ---
+  duration_ms: 0.448236
+  type: 'test'
+  ...
+# Subtest: mute stops an active fanfare and prevents subsequent playback
+ok 62 - mute stops an active fanfare and prevents subsequent playback
+  ---
+  duration_ms: 0.275546
+  type: 'test'
+  ...
+# Subtest: volume zero, hidden document and unknown cue are silent
+ok 63 - volume zero, hidden document and unknown cue are silent
+  ---
+  duration_ms: 0.170467
+  type: 'test'
+  ...
+# Subtest: missing or throwing Web Audio does not break learning
+ok 64 - missing or throwing Web Audio does not break learning
+  ---
+  duration_ms: 0.342647
+  type: 'test'
+  ...
+# Subtest: suspended audio is resumed and scheduled after activation
+ok 65 - suspended audio is resumed and scheduled after activation
+  ---
+  duration_ms: 0.226061
+  type: 'test'
+  ...
+# Subtest: a pending resume cannot play after sound is disabled
+ok 66 - a pending resume cannot play after sound is disabled
+  ---
+  duration_ms: 0.556871
+  type: 'test'
+  ...
+# Subtest: settings persist independently from learning progress
+ok 67 - settings persist independently from learning progress
+  ---
+  duration_ms: 0.845086
+  type: 'test'
+  ...
+# Subtest: storage denial does not prevent settings or render
+ok 68 - storage denial does not prevent settings or render
+  ---
+  duration_ms: 0.513636
+  type: 'test'
+  ...
+# Subtest: OS reduced motion overrides animation preference and reacts to changes
+ok 69 - OS reduced motion overrides animation preference and reacts to changes
+  ---
+  duration_ms: 0.275426
+  type: 'test'
+  ...
+# Subtest: cancelling motion does not leave an unhandled rejection
+ok 70 - cancelling motion does not leave an unhandled rejection
+  ---
+  duration_ms: 0.369759
+  type: 'test'
+  ...
+# Subtest: fallback rendering works without Web Animations
+ok 71 - fallback rendering works without Web Animations
+  ---
+  duration_ms: 0.166451
+  type: 'test'
+  ...
+1..71
+# tests 71
+# suites 0
+# pass 71
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 210.014263

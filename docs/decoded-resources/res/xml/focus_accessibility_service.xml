@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android" android:description="@0x7f020001" android:settingsActivity="app.unlockenglish.MainActivity" android:accessibilityEventTypes="0x20" android:accessibilityFeedbackType="0x10" android:notificationTimeout="100" android:accessibilityFlags="0x1" android:canRetrieveWindowContent="false" android:isAccessibilityTool="false" />

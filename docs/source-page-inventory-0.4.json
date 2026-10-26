@@ -1,0 +1,4987 @@
+{
+  "count": 332,
+  "image_decode_checked": true,
+  "all_exercises_individually_graded": false,
+  "pages": [
+    {
+      "book": "pre",
+      "pdf_page": 1,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/pre/001.webp",
+      "size": 284694,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4c830a6fff4f71f855bc5c249a0bac00262e96abac219dd2f16cc180dd1a0b4f",
+      "text_chars": 87
+    },
+    {
+      "book": "pre",
+      "pdf_page": 2,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/pre/002.webp",
+      "size": 30994,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ab6ae4d96e30f7bf8742b979b1d69db6b062d08ff215dbfa8eca698aa6161ba0",
+      "text_chars": 68
+    },
+    {
+      "book": "pre",
+      "pdf_page": 3,
+      "printed_page": null,
+      "unit": null,
+      "section": "Содержание",
+      "image": "books/pre/003.webp",
+      "size": 198156,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "61e38ad4785c232cb8e73d7a460fe3b8e6c11f84af25d14ec8e6ce06ad271f90",
+      "text_chars": 3801
+    },
+    {
+      "book": "pre",
+      "pdf_page": 4,
+      "printed_page": null,
+      "unit": null,
+      "section": "Содержание",
+      "image": "books/pre/004.webp",
+      "size": 223684,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cc5b9ee7556149abd87c6b30d6d9df52c7213ef45f1e6aa8250413450a255341",
+      "text_chars": 4365
+    },
+    {
+      "book": "pre",
+      "pdf_page": 5,
+      "printed_page": 4,
+      "unit": 1,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/005.webp",
+      "size": 310392,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a6cc4db2a6696e5b1c4b7aa574a57604a84b9f3fde83af4dc522051150ec8fca",
+      "text_chars": 4456
+    },
+    {
+      "book": "pre",
+      "pdf_page": 6,
+      "printed_page": 5,
+      "unit": 1,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/006.webp",
+      "size": 241350,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5db0e7c38c2d143f84ee4e577809bb4560a2c2ee8e91406d822816130571a250",
+      "text_chars": 2044
+    },
+    {
+      "book": "pre",
+      "pdf_page": 7,
+      "printed_page": 6,
+      "unit": 1,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/007.webp",
+      "size": 254534,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5cff4752fb8b6760d09b93b57b63f84ca76a967d4ef893c5c80c584fcbd1a708",
+      "text_chars": 2153
+    },
+    {
+      "book": "pre",
+      "pdf_page": 8,
+      "printed_page": 7,
+      "unit": 1,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/008.webp",
+      "size": 288558,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "021ac8a4ee1cad8ddffcfe484f40cac3a7973a8a1adf56623e59ec6c781a81eb",
+      "text_chars": 2795
+    },
+    {
+      "book": "pre",
+      "pdf_page": 9,
+      "printed_page": 8,
+      "unit": 1,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/009.webp",
+      "size": 210608,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "91bed0dc6336ea1509754af72cfada68665126bb345a1ca080b97d6289c80ac4",
+      "text_chars": 3087
+    },
+    {
+      "book": "pre",
+      "pdf_page": 10,
+      "printed_page": 9,
+      "unit": 1,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/010.webp",
+      "size": 153170,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7e32f23f948607764580103fea7bc0884b2837d23d8900395b7ee02b8577d668",
+      "text_chars": 2091
+    },
+    {
+      "book": "pre",
+      "pdf_page": 11,
+      "printed_page": 10,
+      "unit": 1,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/011.webp",
+      "size": 331158,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d9c68cb0db9d4d74fc96c751feedd0f2b923c5d4730159a19f62ba81cdc6f8ed",
+      "text_chars": 3491
+    },
+    {
+      "book": "pre",
+      "pdf_page": 12,
+      "printed_page": 11,
+      "unit": 1,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/012.webp",
+      "size": 302906,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ff9874cd067b7163a15f33ff97e0377225a1c2b18b3ab46f0422093852bc6c0e",
+      "text_chars": 3157
+    },
+    {
+      "book": "pre",
+      "pdf_page": 13,
+      "printed_page": 12,
+      "unit": 1,
+      "section": "E · Writing",
+      "image": "books/pre/013.webp",
+      "size": 206182,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ef4b8f7c504263efb7c5839e3339d623f8f23bb53638e707950ba4ef90f26faa",
+      "text_chars": 2414
+    },
+    {
+      "book": "pre",
+      "pdf_page": 14,
+      "printed_page": 13,
+      "unit": 1,
+      "section": "E · Writing",
+      "image": "books/pre/014.webp",
+      "size": 232138,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "64fedcdfc84880d559714360bf67f3cac8e721a531caba2610a03d0b517f749e",
+      "text_chars": 3236
+    },
+    {
+      "book": "pre",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "unit": 1,
+      "section": "Vocabulary insight",
+      "image": "books/pre/015.webp",
+      "size": 262158,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d54c2cb3e04e65ce602ff97355daeb63f65ddd7fa18596693f15f189f162232d",
+      "text_chars": 4611
+    },
+    {
+      "book": "pre",
+      "pdf_page": 16,
+      "printed_page": 15,
+      "unit": 1,
+      "section": "Review",
+      "image": "books/pre/016.webp",
+      "size": 243848,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1d7ece14485fabfed178981e8f1d3178d51b38ff2bfbdd002cc0430fa553d500",
+      "text_chars": 3924
+    },
+    {
+      "book": "pre",
+      "pdf_page": 17,
+      "printed_page": 16,
+      "unit": 2,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/017.webp",
+      "size": 284880,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5aa8337da88ef6a76674a24c6856c810f66c4283f7359ccd7f0c566c052a9030",
+      "text_chars": 2975
+    },
+    {
+      "book": "pre",
+      "pdf_page": 18,
+      "printed_page": 17,
+      "unit": 2,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/018.webp",
+      "size": 315354,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2d4bab29e7f6d7cf12436af73a6a1755d2a60e79d86ab9048d01a1cdb4972463",
+      "text_chars": 4096
+    },
+    {
+      "book": "pre",
+      "pdf_page": 19,
+      "printed_page": 18,
+      "unit": 2,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/019.webp",
+      "size": 224398,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c9e76a04cbb7a0969ebc2cc7e82f1c377baaff05b0e1b84a61d9ae4565ea2e71",
+      "text_chars": 3581
+    },
+    {
+      "book": "pre",
+      "pdf_page": 20,
+      "printed_page": 19,
+      "unit": 2,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/020.webp",
+      "size": 217124,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6a07fbc2219093733d30a36013a89b171d1b3ad6fbba53d5f739d5850de9c8f4",
+      "text_chars": 3111
+    },
+    {
+      "book": "pre",
+      "pdf_page": 21,
+      "printed_page": 20,
+      "unit": 2,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/021.webp",
+      "size": 225090,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ef34364d1945357613627b8ee2911109fcdebbf0482c1d3dae11789829930552",
+      "text_chars": 1656
+    },
+    {
+      "book": "pre",
+      "pdf_page": 22,
+      "printed_page": 21,
+      "unit": 2,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/022.webp",
+      "size": 180456,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "99e083b76435671a1c4cf6b6ff1ee131f60bb3d14ed80eb6111d0d1b001705c0",
+      "text_chars": 2046
+    },
+    {
+      "book": "pre",
+      "pdf_page": 23,
+      "printed_page": 22,
+      "unit": 2,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/023.webp",
+      "size": 279680,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "66f074e784a7d2a279f87309e968f2158ef25aeab2ecbef9540ac208a174ec71",
+      "text_chars": 4289
+    },
+    {
+      "book": "pre",
+      "pdf_page": 24,
+      "printed_page": 23,
+      "unit": 2,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/024.webp",
+      "size": 254572,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "824d101e72268a126f6a48a72060ca9004cc605dea47c67bdf62e5616e5f87e7",
+      "text_chars": 3576
+    },
+    {
+      "book": "pre",
+      "pdf_page": 25,
+      "printed_page": 24,
+      "unit": 2,
+      "section": "E · Writing",
+      "image": "books/pre/025.webp",
+      "size": 270982,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1711f4166c61593631a585ca5ce0b8394debe453069981dc1368a381e91bb053",
+      "text_chars": 2158
+    },
+    {
+      "book": "pre",
+      "pdf_page": 26,
+      "printed_page": 25,
+      "unit": 2,
+      "section": "E · Writing",
+      "image": "books/pre/026.webp",
+      "size": 166346,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "37e3484844dc4623f28dae131d3ada4ccfce3c506d79d0783efc232e246652b4",
+      "text_chars": 2579
+    },
+    {
+      "book": "pre",
+      "pdf_page": 27,
+      "printed_page": 26,
+      "unit": 2,
+      "section": "Vocabulary insight",
+      "image": "books/pre/027.webp",
+      "size": 262578,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7d5fc8e4858028aab61f2cdcdeddc803bfa435a64759c743c121e5cea0e7ba15",
+      "text_chars": 4473
+    },
+    {
+      "book": "pre",
+      "pdf_page": 28,
+      "printed_page": 27,
+      "unit": 2,
+      "section": "Review",
+      "image": "books/pre/028.webp",
+      "size": 238646,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "daed7f0e491cd60856b6db6113312fe075b66a46874ad7c9bb6c807965d58554",
+      "text_chars": 3891
+    },
+    {
+      "book": "pre",
+      "pdf_page": 29,
+      "printed_page": 28,
+      "unit": 2,
+      "section": "Cumulative review",
+      "image": "books/pre/029.webp",
+      "size": 312476,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8e7cc1211f241898b22f3709550bdd75f95a4d0c8cd191198be3bb9316d5e7a2",
+      "text_chars": 3075
+    },
+    {
+      "book": "pre",
+      "pdf_page": 30,
+      "printed_page": 29,
+      "unit": 2,
+      "section": "Cumulative review",
+      "image": "books/pre/030.webp",
+      "size": 318754,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "64386c77519cd2076413f56e40af329eac076d9e6a18aca05676e598bfcf146a",
+      "text_chars": 3274
+    },
+    {
+      "book": "pre",
+      "pdf_page": 31,
+      "printed_page": 30,
+      "unit": 3,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/031.webp",
+      "size": 258074,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c84c0fce0ccc74cf808479da9ae6de545f4bf7323c65db8db6fbc5285d8538f7",
+      "text_chars": 2220
+    },
+    {
+      "book": "pre",
+      "pdf_page": 32,
+      "printed_page": 31,
+      "unit": 3,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/032.webp",
+      "size": 303418,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b7cca631b685e836af640a5bb2d2c53a9ac917bc9244af929ea3188b34c5f235",
+      "text_chars": 4550
+    },
+    {
+      "book": "pre",
+      "pdf_page": 33,
+      "printed_page": 32,
+      "unit": 3,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/033.webp",
+      "size": 218932,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a21a42cd3ecbfaf40d06eb1a8d8a520797b84ce7a74bbb2b4d3a37b275704c48",
+      "text_chars": 2476
+    },
+    {
+      "book": "pre",
+      "pdf_page": 34,
+      "printed_page": 33,
+      "unit": 3,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/034.webp",
+      "size": 162286,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "af199e11ae8d2682af00ecb22163b361b99fe96e47ac4389d327d20053ebab41",
+      "text_chars": 3174
+    },
+    {
+      "book": "pre",
+      "pdf_page": 35,
+      "printed_page": 34,
+      "unit": 3,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/035.webp",
+      "size": 221168,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3d5e827c86b46f3c7d931062073697c15131c93df44c0c3970aaec2e60d0af79",
+      "text_chars": 2620
+    },
+    {
+      "book": "pre",
+      "pdf_page": 36,
+      "printed_page": 35,
+      "unit": 3,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/036.webp",
+      "size": 196026,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0954532f70ae84ad3133d648b1432820252e7ec0463b554aae60747285a365b8",
+      "text_chars": 2325
+    },
+    {
+      "book": "pre",
+      "pdf_page": 37,
+      "printed_page": 36,
+      "unit": 3,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/037.webp",
+      "size": 289848,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e168acb2afbbab26e66a1f43e5e63000d3e947747a73f37867cae3d941c8dbd1",
+      "text_chars": 3507
+    },
+    {
+      "book": "pre",
+      "pdf_page": 38,
+      "printed_page": 37,
+      "unit": 3,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/038.webp",
+      "size": 300524,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1ab4fd09f22931583c447f02098acce69a00ed995af0fae8055fbdcbb84653c5",
+      "text_chars": 3837
+    },
+    {
+      "book": "pre",
+      "pdf_page": 39,
+      "printed_page": 38,
+      "unit": 3,
+      "section": "E · Writing",
+      "image": "books/pre/039.webp",
+      "size": 191842,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ea61ad71a2b71f627eff5a5bf2ef2d4f657c40b4b1639867d95eda6a11200974",
+      "text_chars": 2411
+    },
+    {
+      "book": "pre",
+      "pdf_page": 40,
+      "printed_page": 39,
+      "unit": 3,
+      "section": "E · Writing",
+      "image": "books/pre/040.webp",
+      "size": 206670,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ce184b609ce3668f076e6c82e9bfe2db77ede3b8d86878bdb60a00a26b3e69af",
+      "text_chars": 3411
+    },
+    {
+      "book": "pre",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "unit": 3,
+      "section": "Vocabulary insight",
+      "image": "books/pre/041.webp",
+      "size": 258570,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ef61874ca5516d746e286da000c20e73ba1a10fade0a2e32a8dfbee0abb210e9",
+      "text_chars": 3081
+    },
+    {
+      "book": "pre",
+      "pdf_page": 42,
+      "printed_page": 41,
+      "unit": 3,
+      "section": "Review",
+      "image": "books/pre/042.webp",
+      "size": 258610,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d886b31d30e54d59c54d5b3f6c6eed587b7b6a5db0acc25906e515816d2a2238",
+      "text_chars": 4786
+    },
+    {
+      "book": "pre",
+      "pdf_page": 43,
+      "printed_page": 42,
+      "unit": 4,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/043.webp",
+      "size": 295740,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "907946b0093cbdeed68a7ab0f9201f9733a97bafe8cfe9f3e53056a914baca0f",
+      "text_chars": 2833
+    },
+    {
+      "book": "pre",
+      "pdf_page": 44,
+      "printed_page": 43,
+      "unit": 4,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/044.webp",
+      "size": 291126,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7102c297754eb31a3d567aafde4f4f6e4a346fb298874f760c45645861196c82",
+      "text_chars": 3783
+    },
+    {
+      "book": "pre",
+      "pdf_page": 45,
+      "printed_page": 44,
+      "unit": 4,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/045.webp",
+      "size": 218220,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3b7602ce84a95be0cca9eb75e4e678f6c5327b29f7339dcc6496ad63fca61077",
+      "text_chars": 2921
+    },
+    {
+      "book": "pre",
+      "pdf_page": 46,
+      "printed_page": 45,
+      "unit": 4,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/046.webp",
+      "size": 230672,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ebd6132a55e58cc1cb65e4373d1a5654284eb3115e2a634a49dec9a28c7b4e42",
+      "text_chars": 2762
+    },
+    {
+      "book": "pre",
+      "pdf_page": 47,
+      "printed_page": 46,
+      "unit": 4,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/047.webp",
+      "size": 213776,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "65a41966510336c58c63e1024cadeec4471eb0eec92606e5b4c5a55b1a9f6bb1",
+      "text_chars": 2482
+    },
+    {
+      "book": "pre",
+      "pdf_page": 48,
+      "printed_page": 47,
+      "unit": 4,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/048.webp",
+      "size": 162084,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9b67a388687d48953dec71cc9df404432e00c6f837cf64025cda46364b21e49a",
+      "text_chars": 2292
+    },
+    {
+      "book": "pre",
+      "pdf_page": 49,
+      "printed_page": 48,
+      "unit": 4,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/049.webp",
+      "size": 271198,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "366863188418ac535708a44aa34f41a871c08d9618a3c0df962a6fc74c5ddfad",
+      "text_chars": 3564
+    },
+    {
+      "book": "pre",
+      "pdf_page": 50,
+      "printed_page": 49,
+      "unit": 4,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/050.webp",
+      "size": 284138,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "824f2fdfb2b0c435e5a477816df8eda65cee38cbae3cbace7e47f0a9db1d64eb",
+      "text_chars": 3630
+    },
+    {
+      "book": "pre",
+      "pdf_page": 51,
+      "printed_page": 50,
+      "unit": 4,
+      "section": "E · Writing",
+      "image": "books/pre/051.webp",
+      "size": 225514,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "319158936ae51577e92e2d9ef9bd5a2715672ca0d8d3ab7cb76fbe25ad346620",
+      "text_chars": 2971
+    },
+    {
+      "book": "pre",
+      "pdf_page": 52,
+      "printed_page": 51,
+      "unit": 4,
+      "section": "E · Writing",
+      "image": "books/pre/052.webp",
+      "size": 223540,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6182697809e48d27c7cf111133cc699164dc5a265976843672cf8fde12d73410",
+      "text_chars": 3320
+    },
+    {
+      "book": "pre",
+      "pdf_page": 53,
+      "printed_page": 52,
+      "unit": 4,
+      "section": "Vocabulary insight",
+      "image": "books/pre/053.webp",
+      "size": 276566,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0ac8228ff01c92c535566971712324c36fd4059e11ded3613e51e6c38b58a3ea",
+      "text_chars": 4845
+    },
+    {
+      "book": "pre",
+      "pdf_page": 54,
+      "printed_page": 53,
+      "unit": 4,
+      "section": "Review",
+      "image": "books/pre/054.webp",
+      "size": 251328,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9061d3f8406235c4f0d8db334951cd1e6b2debb89a6d6e4db5399808d1bf9ae6",
+      "text_chars": 4147
+    },
+    {
+      "book": "pre",
+      "pdf_page": 55,
+      "printed_page": 54,
+      "unit": 4,
+      "section": "Cumulative review",
+      "image": "books/pre/055.webp",
+      "size": 269156,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ad928604ac1aa0238209b7e29aef2cef3331afec393a2285dbf5dc0b6a93cc9e",
+      "text_chars": 2803
+    },
+    {
+      "book": "pre",
+      "pdf_page": 56,
+      "printed_page": 55,
+      "unit": 4,
+      "section": "Cumulative review",
+      "image": "books/pre/056.webp",
+      "size": 305494,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8deaceb8a1110abac737eaf2314dcc4759b104ee39b3d623c89a89f131dd7cac",
+      "text_chars": 2986
+    },
+    {
+      "book": "pre",
+      "pdf_page": 57,
+      "printed_page": 56,
+      "unit": 5,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/057.webp",
+      "size": 294932,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f0bba2e453b549158368193d58378767fc998d6a0b09c0d3cea953a4ca6dc134",
+      "text_chars": 4051
+    },
+    {
+      "book": "pre",
+      "pdf_page": 58,
+      "printed_page": 57,
+      "unit": 5,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/058.webp",
+      "size": 291172,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a6b5c09f45b50d3f5a1776376048bb47b32cc3894f136576ca42289d00f499d9",
+      "text_chars": 4084
+    },
+    {
+      "book": "pre",
+      "pdf_page": 59,
+      "printed_page": 58,
+      "unit": 5,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/059.webp",
+      "size": 317980,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "841acf57eff7aa5d2f5b3bfa14009e2adece88d2f9d9ce1d7d04a0a11cca2639",
+      "text_chars": 3321
+    },
+    {
+      "book": "pre",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "unit": 5,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/060.webp",
+      "size": 327352,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "86249ac840cbd56aff9e2bfd05a7bff92f4b46e6ce90041f3cd260760afd184d",
+      "text_chars": 2794
+    },
+    {
+      "book": "pre",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "unit": 5,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/061.webp",
+      "size": 204192,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "bb52d6550d34a23112e49b01de9a6b2d81277de220c9e75c5792fdeb0214bd8e",
+      "text_chars": 2000
+    },
+    {
+      "book": "pre",
+      "pdf_page": 62,
+      "printed_page": 61,
+      "unit": 5,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/062.webp",
+      "size": 232442,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "60bfd4218e5b277781dc6de9b961edb1955482162df02cc5ab6917b73a6f2cb1",
+      "text_chars": 2248
+    },
+    {
+      "book": "pre",
+      "pdf_page": 63,
+      "printed_page": 62,
+      "unit": 5,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/063.webp",
+      "size": 424508,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2d655f62700cd3e1aa6f0d4a60b1c8dd90abb5a91d73970c3bbf44b23bd117ca",
+      "text_chars": 3879
+    },
+    {
+      "book": "pre",
+      "pdf_page": 64,
+      "printed_page": 63,
+      "unit": 5,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/064.webp",
+      "size": 365720,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "07ff924df25d0df4a32230683d1e0ab355606a713cd50eb582e354dd562f74e7",
+      "text_chars": 3575
+    },
+    {
+      "book": "pre",
+      "pdf_page": 65,
+      "printed_page": 64,
+      "unit": 5,
+      "section": "E · Writing",
+      "image": "books/pre/065.webp",
+      "size": 186848,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ca650fc2a69ff811aad3688ed900da5067d1711177d04a1810fe92488b9443b2",
+      "text_chars": 2470
+    },
+    {
+      "book": "pre",
+      "pdf_page": 66,
+      "printed_page": 65,
+      "unit": 5,
+      "section": "E · Writing",
+      "image": "books/pre/066.webp",
+      "size": 235832,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c84756a8025a9e87742c27778dd6ab2095ced526cee1bb058f771e86e590aa8d",
+      "text_chars": 2627
+    },
+    {
+      "book": "pre",
+      "pdf_page": 67,
+      "printed_page": 66,
+      "unit": 5,
+      "section": "Vocabulary insight",
+      "image": "books/pre/067.webp",
+      "size": 226074,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1c7c7d10705a49fd5e5fc58acafaacbd7f47c71174947fd924a3e8d68b614f2d",
+      "text_chars": 3091
+    },
+    {
+      "book": "pre",
+      "pdf_page": 68,
+      "printed_page": 67,
+      "unit": 5,
+      "section": "Review",
+      "image": "books/pre/068.webp",
+      "size": 256578,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "74b46121507f5a23de5775f25e491c67be64de0a4464e7de2a0ebb5b243081ca",
+      "text_chars": 4680
+    },
+    {
+      "book": "pre",
+      "pdf_page": 69,
+      "printed_page": 68,
+      "unit": 6,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/069.webp",
+      "size": 281200,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cb9c11efd7ae84399fcb6c26682c4180428be4286713a0ca4193ef6fa98b9fb5",
+      "text_chars": 3671
+    },
+    {
+      "book": "pre",
+      "pdf_page": 70,
+      "printed_page": 69,
+      "unit": 6,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/070.webp",
+      "size": 263968,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f0c30d2729582cd5506f4ec1e8b474278974bd7efc757348351d182d83a190d6",
+      "text_chars": 4571
+    },
+    {
+      "book": "pre",
+      "pdf_page": 71,
+      "printed_page": 70,
+      "unit": 6,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/071.webp",
+      "size": 254532,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "79088135bb9791e9cd5e7f9b0e3d9ad5ed2cf67f780e75e709cb085be9853234",
+      "text_chars": 3145
+    },
+    {
+      "book": "pre",
+      "pdf_page": 72,
+      "printed_page": 71,
+      "unit": 6,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/072.webp",
+      "size": 262892,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d8fd3125d62a88731039f1a5601b58fdf58ff8345d4e371f7ea56c0f0a67295c",
+      "text_chars": 3904
+    },
+    {
+      "book": "pre",
+      "pdf_page": 73,
+      "printed_page": 72,
+      "unit": 6,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/073.webp",
+      "size": 250796,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0c9a771f62ce8e6ecdd865e7af36226c0a0cdccdb47c6f11e08612ae67840a28",
+      "text_chars": 2480
+    },
+    {
+      "book": "pre",
+      "pdf_page": 74,
+      "printed_page": 73,
+      "unit": 6,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/074.webp",
+      "size": 190152,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0e7f542dc70432561e78396e9209ca7db8861ed44abeec1f43a76edc4802ea4a",
+      "text_chars": 3057
+    },
+    {
+      "book": "pre",
+      "pdf_page": 75,
+      "printed_page": 74,
+      "unit": 6,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/075.webp",
+      "size": 243772,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c052c992f66710a9a852a6c02c92b1e405cf2c87209d727b0d67ade9bc845f5f",
+      "text_chars": 2786
+    },
+    {
+      "book": "pre",
+      "pdf_page": 76,
+      "printed_page": 75,
+      "unit": 6,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/076.webp",
+      "size": 197726,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "aa0c07c4365eb069574adf5c3af2fc7eb428e4db455c327f73ad4b81967adf6c",
+      "text_chars": 2284
+    },
+    {
+      "book": "pre",
+      "pdf_page": 77,
+      "printed_page": 76,
+      "unit": 6,
+      "section": "E · Writing",
+      "image": "books/pre/077.webp",
+      "size": 143196,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b14b32f523fd2fe8e6ba77d7c27a44f9ee7c049e5e53b38fa8ea4af2d8ec7cfa",
+      "text_chars": 1835
+    },
+    {
+      "book": "pre",
+      "pdf_page": 78,
+      "printed_page": 77,
+      "unit": 6,
+      "section": "E · Writing",
+      "image": "books/pre/078.webp",
+      "size": 259530,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "28c87444ac37ac37dc6fb4414027457beab2ccfe6369204043cced67357086ed",
+      "text_chars": 3973
+    },
+    {
+      "book": "pre",
+      "pdf_page": 79,
+      "printed_page": 78,
+      "unit": 6,
+      "section": "Vocabulary insight",
+      "image": "books/pre/079.webp",
+      "size": 271484,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "603780998f860ac3bb8182d445796523d63b3ddc7925564daf41567d574b5fe4",
+      "text_chars": 4869
+    },
+    {
+      "book": "pre",
+      "pdf_page": 80,
+      "printed_page": 79,
+      "unit": 6,
+      "section": "Review",
+      "image": "books/pre/080.webp",
+      "size": 245106,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "edad786db27a4a1ad0b5d7fa0e8d8c10bbadfe68c2f157b80e477c62be9a938d",
+      "text_chars": 4414
+    },
+    {
+      "book": "pre",
+      "pdf_page": 81,
+      "printed_page": 80,
+      "unit": 6,
+      "section": "Cumulative review",
+      "image": "books/pre/081.webp",
+      "size": 234076,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5ad9d5fec183bdac9d634c0e3dde96e89779e7aaad370251233fc137c7de6b8c",
+      "text_chars": 2289
+    },
+    {
+      "book": "pre",
+      "pdf_page": 82,
+      "printed_page": 81,
+      "unit": 6,
+      "section": "Cumulative review",
+      "image": "books/pre/082.webp",
+      "size": 303328,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "67143f3e63c71a529f23c26b0db852664d8d3f3e5621a0dd032c09ee9143c90f",
+      "text_chars": 4399
+    },
+    {
+      "book": "pre",
+      "pdf_page": 83,
+      "printed_page": 82,
+      "unit": 7,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/083.webp",
+      "size": 281882,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5b197c5ba3e7f9284f937b503326ef69cce0d7a1aa5f62202a19b01c9eb152ae",
+      "text_chars": 3297
+    },
+    {
+      "book": "pre",
+      "pdf_page": 84,
+      "printed_page": 83,
+      "unit": 7,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/084.webp",
+      "size": 314488,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "44bcd35dfefd1cba3db169c29ddc9a82e153a79400d01bb5156d0b47b3a20cdf",
+      "text_chars": 4611
+    },
+    {
+      "book": "pre",
+      "pdf_page": 85,
+      "printed_page": 84,
+      "unit": 7,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/085.webp",
+      "size": 249528,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "50591532957811b7239b7581d82ff23d0d9bb1f4ba636decc89c86be578a5a55",
+      "text_chars": 2895
+    },
+    {
+      "book": "pre",
+      "pdf_page": 86,
+      "printed_page": 85,
+      "unit": 7,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/086.webp",
+      "size": 226442,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e542170da5a4863005238a49d4c421f1413eb211c04dd80a033b3c722e5d8601",
+      "text_chars": 3374
+    },
+    {
+      "book": "pre",
+      "pdf_page": 87,
+      "printed_page": 86,
+      "unit": 7,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/087.webp",
+      "size": 270400,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "22ce407034b48dad4ee4d4f6a7fbc0d070ab6a3f289b2322085f3cf7e73f09be",
+      "text_chars": 3558
+    },
+    {
+      "book": "pre",
+      "pdf_page": 88,
+      "printed_page": 87,
+      "unit": 7,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/088.webp",
+      "size": 182126,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8c8083afcc4bf96dda23a53d5fa912a93227df4e173865081ff1e34a5a3df3b6",
+      "text_chars": 2656
+    },
+    {
+      "book": "pre",
+      "pdf_page": 89,
+      "printed_page": 88,
+      "unit": 7,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/089.webp",
+      "size": 334970,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fb38bf24ae2df555d3f5198054f94ed58fd2e0f90b9651351ee1d34700d49ae3",
+      "text_chars": 3869
+    },
+    {
+      "book": "pre",
+      "pdf_page": 90,
+      "printed_page": 89,
+      "unit": 7,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/090.webp",
+      "size": 324634,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fd6af93eedeb56367d9bce718e24e29a0b4207a6f129ea59438193fa8f68f8ab",
+      "text_chars": 3759
+    },
+    {
+      "book": "pre",
+      "pdf_page": 91,
+      "printed_page": 90,
+      "unit": 7,
+      "section": "E · Writing",
+      "image": "books/pre/091.webp",
+      "size": 185968,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9808fa83d95b300f2255ef68821b14e42fb56029193a97ada0028fe5c4b6701e",
+      "text_chars": 2384
+    },
+    {
+      "book": "pre",
+      "pdf_page": 92,
+      "printed_page": 91,
+      "unit": 7,
+      "section": "E · Writing",
+      "image": "books/pre/092.webp",
+      "size": 239972,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9e1e87e32d9b2bf640893c1550482c81ff303db59de30e21bea5083b3d93d25f",
+      "text_chars": 3584
+    },
+    {
+      "book": "pre",
+      "pdf_page": 93,
+      "printed_page": 92,
+      "unit": 7,
+      "section": "Vocabulary insight",
+      "image": "books/pre/093.webp",
+      "size": 248986,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d1671437c97e895349964e2b74f672b87667698c2ffe051e4bd3f388fe4c669c",
+      "text_chars": 4334
+    },
+    {
+      "book": "pre",
+      "pdf_page": 94,
+      "printed_page": 93,
+      "unit": 7,
+      "section": "Review",
+      "image": "books/pre/094.webp",
+      "size": 232408,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1cc7b15a3126fdae7e013be226cb3e5a91be6b654fb3903bda91c8d89bb8e44f",
+      "text_chars": 4466
+    },
+    {
+      "book": "pre",
+      "pdf_page": 95,
+      "printed_page": 94,
+      "unit": 8,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/095.webp",
+      "size": 257616,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6f6d15b6613de0d9ea36fb5a1543178a070615bb2bb7b53715b570fd86300459",
+      "text_chars": 3214
+    },
+    {
+      "book": "pre",
+      "pdf_page": 96,
+      "printed_page": 95,
+      "unit": 8,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/096.webp",
+      "size": 265386,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8b84aaa3ac65a4ea0b5cc89e9deb524d710f35ce1abd75b581c10ff5ac597d78",
+      "text_chars": 3717
+    },
+    {
+      "book": "pre",
+      "pdf_page": 97,
+      "printed_page": 96,
+      "unit": 8,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/097.webp",
+      "size": 272590,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "82bdb08530289046ebadf2a9e656dab85fcd50e1c508b90b2ec67c63b324c56f",
+      "text_chars": 3219
+    },
+    {
+      "book": "pre",
+      "pdf_page": 98,
+      "printed_page": 97,
+      "unit": 8,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/098.webp",
+      "size": 209400,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fb29e1bf54c513e5b6952c680bd36309e26d4091c3d1b2a05f05cfc1beb9c73b",
+      "text_chars": 2926
+    },
+    {
+      "book": "pre",
+      "pdf_page": 99,
+      "printed_page": 98,
+      "unit": 8,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/099.webp",
+      "size": 228608,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2b45aadc0f3f56e34b263adffa14298686ce69a4a529a0e9d3855adfc056dd26",
+      "text_chars": 2139
+    },
+    {
+      "book": "pre",
+      "pdf_page": 100,
+      "printed_page": 99,
+      "unit": 8,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/100.webp",
+      "size": 194672,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "79caff793db338190c8661c461c10dbcb08bb3374442d6cae03f8cfba9439d36",
+      "text_chars": 2227
+    },
+    {
+      "book": "pre",
+      "pdf_page": 101,
+      "printed_page": 100,
+      "unit": 8,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/101.webp",
+      "size": 307454,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b5ad5131246ad6124b28a0df77cc8092f131d027ff1ca1d79535cfb7ad10d76c",
+      "text_chars": 3774
+    },
+    {
+      "book": "pre",
+      "pdf_page": 102,
+      "printed_page": 101,
+      "unit": 8,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/102.webp",
+      "size": 286302,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e11b83ce42fe01befc953cdc219afa616de8b707f0f0774a0e1ee831dc0757b2",
+      "text_chars": 3971
+    },
+    {
+      "book": "pre",
+      "pdf_page": 103,
+      "printed_page": 102,
+      "unit": 8,
+      "section": "E · Writing",
+      "image": "books/pre/103.webp",
+      "size": 234134,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "68067d4e7ef9c9c284eef84e092f4db05aa5842e02755e9b770f15689c77f408",
+      "text_chars": 3008
+    },
+    {
+      "book": "pre",
+      "pdf_page": 104,
+      "printed_page": 103,
+      "unit": 8,
+      "section": "E · Writing",
+      "image": "books/pre/104.webp",
+      "size": 255720,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e4950571aa6491505d7514a8d9cca044a1efb8b75f2f40dc9f058d1a860e9571",
+      "text_chars": 4254
+    },
+    {
+      "book": "pre",
+      "pdf_page": 105,
+      "printed_page": 104,
+      "unit": 8,
+      "section": "Vocabulary insight",
+      "image": "books/pre/105.webp",
+      "size": 242956,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0cd9638653fe8599cbba918ca06a5f5eebd591ed276b564aeeaf5486ef67ba8f",
+      "text_chars": 4045
+    },
+    {
+      "book": "pre",
+      "pdf_page": 106,
+      "printed_page": 105,
+      "unit": 8,
+      "section": "Review",
+      "image": "books/pre/106.webp",
+      "size": 275942,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "bc08f607880bdc7a3bf6b4c242ca6df42a1823d95c6b85f52e62cf3b7cbd1b7d",
+      "text_chars": 5266
+    },
+    {
+      "book": "pre",
+      "pdf_page": 107,
+      "printed_page": 106,
+      "unit": 8,
+      "section": "Cumulative review",
+      "image": "books/pre/107.webp",
+      "size": 247782,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b7aba221e62f962495997fae929ba80d4788728537f22406a45cb36a132826bc",
+      "text_chars": 3197
+    },
+    {
+      "book": "pre",
+      "pdf_page": 108,
+      "printed_page": 107,
+      "unit": 8,
+      "section": "Cumulative review",
+      "image": "books/pre/108.webp",
+      "size": 236830,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0395791c8585595a19ac3b6a56572a324b0dfab5d47f2e8af0c3f5d939d2bb04",
+      "text_chars": 3268
+    },
+    {
+      "book": "pre",
+      "pdf_page": 109,
+      "printed_page": 108,
+      "unit": 9,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/109.webp",
+      "size": 219134,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "211447dc7adb2e9b6a43ca77b7329c3156066989121c54082160be8263c50b72",
+      "text_chars": 3093
+    },
+    {
+      "book": "pre",
+      "pdf_page": 110,
+      "printed_page": 109,
+      "unit": 9,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/110.webp",
+      "size": 364718,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "83169539999555259023ff13062af4fc960c428b5058a986f307137766ddb879",
+      "text_chars": 3746
+    },
+    {
+      "book": "pre",
+      "pdf_page": 111,
+      "printed_page": 110,
+      "unit": 9,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/111.webp",
+      "size": 262252,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "710ad4c00ae078e7de3725896a93109ffb113791ad3d6d15200577c2113ac994",
+      "text_chars": 3572
+    },
+    {
+      "book": "pre",
+      "pdf_page": 112,
+      "printed_page": 111,
+      "unit": 9,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/112.webp",
+      "size": 218934,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2c9da6e349fbbecf4c9b6e3ea9caedef89141c965215158b3844976212b2b2b1",
+      "text_chars": 3022
+    },
+    {
+      "book": "pre",
+      "pdf_page": 113,
+      "printed_page": 112,
+      "unit": 9,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/113.webp",
+      "size": 273710,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e94d22e039ea910373ffb89cb4ee7be7d4416c36db3b876d5f2855d23e887316",
+      "text_chars": 2900
+    },
+    {
+      "book": "pre",
+      "pdf_page": 114,
+      "printed_page": 113,
+      "unit": 9,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/114.webp",
+      "size": 162732,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "27825c822edb9680119df0d5da414d2bd04a206b179822ff6922f60b20e526ff",
+      "text_chars": 2186
+    },
+    {
+      "book": "pre",
+      "pdf_page": 115,
+      "printed_page": 114,
+      "unit": 9,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/115.webp",
+      "size": 300350,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7525e318ba586631e4788be096c2f7a40f4c1c0614738583131f7149c0f75868",
+      "text_chars": 5423
+    },
+    {
+      "book": "pre",
+      "pdf_page": 116,
+      "printed_page": 115,
+      "unit": 9,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/116.webp",
+      "size": 285912,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cd54f1fdc0f6da4fdd775d8873de71e6fac2e5d45bee1d5ee9e3fc1bb66fd00f",
+      "text_chars": 3637
+    },
+    {
+      "book": "pre",
+      "pdf_page": 117,
+      "printed_page": 116,
+      "unit": 9,
+      "section": "E · Writing",
+      "image": "books/pre/117.webp",
+      "size": 203106,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0c21bcc1dd2777eb741754936eb94e6cb5924264f7b88dfdbf89950bb95c43cc",
+      "text_chars": 3030
+    },
+    {
+      "book": "pre",
+      "pdf_page": 118,
+      "printed_page": 117,
+      "unit": 9,
+      "section": "E · Writing",
+      "image": "books/pre/118.webp",
+      "size": 230792,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "86904793ec108541528f8aa824d847d7858ec34d6ef65994035b09d4c7ac6d55",
+      "text_chars": 3133
+    },
+    {
+      "book": "pre",
+      "pdf_page": 119,
+      "printed_page": 118,
+      "unit": 9,
+      "section": "Vocabulary insight",
+      "image": "books/pre/119.webp",
+      "size": 282730,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fcc6b9c54c72b236c6937b77cac21e0250a55e870f00cbc59595898181c0b0b1",
+      "text_chars": 5615
+    },
+    {
+      "book": "pre",
+      "pdf_page": 120,
+      "printed_page": 119,
+      "unit": 9,
+      "section": "Review",
+      "image": "books/pre/120.webp",
+      "size": 240816,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "82994c32395c0cb457337bcf87a069d7c4a1f58debd3cac557cb21c4bd3a0a41",
+      "text_chars": 4792
+    },
+    {
+      "book": "pre",
+      "pdf_page": 121,
+      "printed_page": 120,
+      "unit": 10,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/121.webp",
+      "size": 300666,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "dec5feaed88c1cae6b110934cae1c5e5361f85dba8695a9c54b02ce69af14b0b",
+      "text_chars": 3806
+    },
+    {
+      "book": "pre",
+      "pdf_page": 122,
+      "printed_page": 121,
+      "unit": 10,
+      "section": "A · Reading & vocabulary",
+      "image": "books/pre/122.webp",
+      "size": 322282,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "110d3be9b08ae509bf0322ed8d83888cc015dfa09faf2f2d46fd7766cdeeb80c",
+      "text_chars": 4208
+    },
+    {
+      "book": "pre",
+      "pdf_page": 123,
+      "printed_page": 122,
+      "unit": 10,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/123.webp",
+      "size": 248840,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "32ecb1d2f92d5cf2dfb18e9ac95186cb0b7dcac01eb38848c14339af6c95086b",
+      "text_chars": 2415
+    },
+    {
+      "book": "pre",
+      "pdf_page": 124,
+      "printed_page": 123,
+      "unit": 10,
+      "section": "B · Grammar & listening",
+      "image": "books/pre/124.webp",
+      "size": 205374,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "88a41e08155cb1ae877cb1e9f89d1009ce780eebf69bd394b826dacdbc281bae",
+      "text_chars": 3502
+    },
+    {
+      "book": "pre",
+      "pdf_page": 125,
+      "printed_page": 124,
+      "unit": 10,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/125.webp",
+      "size": 277986,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3d843de86d7d276f6a6961d9d640cb902a1a4a0460aa135acd7edd125559af92",
+      "text_chars": 2326
+    },
+    {
+      "book": "pre",
+      "pdf_page": 126,
+      "printed_page": 125,
+      "unit": 10,
+      "section": "C · Listening & speaking",
+      "image": "books/pre/126.webp",
+      "size": 203806,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7ebc97a2f7d79f5b87a16a372a9ea2b971da7e70c756fabbcae3187bd8fc12a5",
+      "text_chars": 3042
+    },
+    {
+      "book": "pre",
+      "pdf_page": 127,
+      "printed_page": 126,
+      "unit": 10,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/127.webp",
+      "size": 259504,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "144f3d1caa6caa5e5ac8aac24a99689fa3ad83226ac39fe50918b424f49425f1",
+      "text_chars": 3818
+    },
+    {
+      "book": "pre",
+      "pdf_page": 128,
+      "printed_page": 127,
+      "unit": 10,
+      "section": "D · Culture & grammar",
+      "image": "books/pre/128.webp",
+      "size": 271776,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2986b6fb8757a3b18792f1bd43f71a73f6b0e48fd19d6b06e4fc930c34564471",
+      "text_chars": 3443
+    },
+    {
+      "book": "pre",
+      "pdf_page": 129,
+      "printed_page": 128,
+      "unit": 10,
+      "section": "E · Writing",
+      "image": "books/pre/129.webp",
+      "size": 265972,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "04d4b02a977dfc4d7453a62b44739aed11af4f0064994ebabc17455385676e07",
+      "text_chars": 2597
+    },
+    {
+      "book": "pre",
+      "pdf_page": 130,
+      "printed_page": 129,
+      "unit": 10,
+      "section": "E · Writing",
+      "image": "books/pre/130.webp",
+      "size": 218980,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4298b3b293f81a5a731659af180edd952b1e2bd5175640930b72ec8a03331cdd",
+      "text_chars": 3674
+    },
+    {
+      "book": "pre",
+      "pdf_page": 131,
+      "printed_page": 130,
+      "unit": 10,
+      "section": "Vocabulary insight",
+      "image": "books/pre/131.webp",
+      "size": 227462,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "afff2c4e6688e1602293ab3781fa96ca1d7f0d87549a7ff552aa7f146eae5241",
+      "text_chars": 3691
+    },
+    {
+      "book": "pre",
+      "pdf_page": 132,
+      "printed_page": 131,
+      "unit": 10,
+      "section": "Review",
+      "image": "books/pre/132.webp",
+      "size": 236932,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "317ce40696e18e0f221983a99c9999b21b732df1bdbdff58728fa209b7ad00c6",
+      "text_chars": 4509
+    },
+    {
+      "book": "pre",
+      "pdf_page": 133,
+      "printed_page": 132,
+      "unit": 10,
+      "section": "Cumulative review",
+      "image": "books/pre/133.webp",
+      "size": 254542,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "971580481e5fff69d3ecf9a5a2e34c2c8ff0dc62568dfd018349af4e56fc9cd7",
+      "text_chars": 2851
+    },
+    {
+      "book": "pre",
+      "pdf_page": 134,
+      "printed_page": 133,
+      "unit": 10,
+      "section": "Cumulative review",
+      "image": "books/pre/134.webp",
+      "size": 305358,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "78f6b3700638e1e39c5879bf862bdf23fbc2cc643266368cffcdc03a7dd24337",
+      "text_chars": 3391
+    },
+    {
+      "book": "pre",
+      "pdf_page": 135,
+      "printed_page": 134,
+      "unit": 1,
+      "section": "Vocabulary bank",
+      "image": "books/pre/135.webp",
+      "size": 225722,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4c58750884628db1e0eb89b273c7afba115066bb20ffd0f85b4991c3b374f8cd",
+      "text_chars": 2848
+    },
+    {
+      "book": "pre",
+      "pdf_page": 136,
+      "printed_page": 135,
+      "unit": 2,
+      "section": "Vocabulary bank",
+      "image": "books/pre/136.webp",
+      "size": 261418,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "105d964257304cf67a3a72cd337e144258d432e38017c3f67c3587d92b1d4f82",
+      "text_chars": 2110
+    },
+    {
+      "book": "pre",
+      "pdf_page": 137,
+      "printed_page": 136,
+      "unit": 3,
+      "section": "Vocabulary bank",
+      "image": "books/pre/137.webp",
+      "size": 247568,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e84aeecce23d2bc96736126bcb7c144643c5866c77f96e727d7865309ed6e85a",
+      "text_chars": 3788
+    },
+    {
+      "book": "pre",
+      "pdf_page": 138,
+      "printed_page": 137,
+      "unit": 4,
+      "section": "Vocabulary bank",
+      "image": "books/pre/138.webp",
+      "size": 237424,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "97e89b094d571d42d07f4ab9c5b99e32b69f876045bd303c25c7f69d22e23425",
+      "text_chars": 1950
+    },
+    {
+      "book": "pre",
+      "pdf_page": 139,
+      "printed_page": 138,
+      "unit": 5,
+      "section": "Vocabulary bank",
+      "image": "books/pre/139.webp",
+      "size": 211090,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a047085f18413b7a0c453f606816da59844ab9456faad05a519cce0a9e582efa",
+      "text_chars": 3242
+    },
+    {
+      "book": "pre",
+      "pdf_page": 140,
+      "printed_page": 139,
+      "unit": 6,
+      "section": "Vocabulary bank",
+      "image": "books/pre/140.webp",
+      "size": 234654,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5e89c0a2af40c7f451d7553372aea637966af8a7556e055364153f8e1eefb1be",
+      "text_chars": 3181
+    },
+    {
+      "book": "pre",
+      "pdf_page": 141,
+      "printed_page": 140,
+      "unit": 7,
+      "section": "Vocabulary bank",
+      "image": "books/pre/141.webp",
+      "size": 202624,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6a6d54965c9f3dfdbdd897c76059d01d6346f29e59b627b5b442392519e7cacc",
+      "text_chars": 3025
+    },
+    {
+      "book": "pre",
+      "pdf_page": 142,
+      "printed_page": 141,
+      "unit": 8,
+      "section": "Vocabulary bank",
+      "image": "books/pre/142.webp",
+      "size": 246690,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d7c753571c1a14cc0092357302338f62d1597987980b1d56bb9c3b6bc1688b15",
+      "text_chars": 3319
+    },
+    {
+      "book": "pre",
+      "pdf_page": 143,
+      "printed_page": 142,
+      "unit": 9,
+      "section": "Vocabulary bank",
+      "image": "books/pre/143.webp",
+      "size": 254344,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "718379704d7d428064fcbbf288d7f967be46d6afe0b9947b8a2dea577a08815a",
+      "text_chars": 3595
+    },
+    {
+      "book": "pre",
+      "pdf_page": 144,
+      "printed_page": 143,
+      "unit": 10,
+      "section": "Vocabulary bank",
+      "image": "books/pre/144.webp",
+      "size": 213084,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4200e7ae61cc0ca107310826ac95cf680bc0d5370519ae0519555902f9bebeb5",
+      "text_chars": 3253
+    },
+    {
+      "book": "pre",
+      "pdf_page": 145,
+      "printed_page": null,
+      "unit": null,
+      "section": "Издательские сведения",
+      "image": "books/pre/145.webp",
+      "size": 626440,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2a8919711841c5f6d2ea787e7112a05391f345d6102e0940d25622ba89b93672",
+      "text_chars": 15173
+    },
+    {
+      "book": "pre",
+      "pdf_page": 146,
+      "printed_page": 104,
+      "unit": 1,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/146.webp",
+      "size": 174674,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3ae3ccba7c953819f536a45f21d14257fe44ef6e15f22a60c5ac81c61024e1b9",
+      "text_chars": 2808
+    },
+    {
+      "book": "pre",
+      "pdf_page": 147,
+      "printed_page": 105,
+      "unit": 1,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/147.webp",
+      "size": 242144,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fabfe36e167cde0c36edb29f168959e2f2e2bcf16b12584e85250628bba4f495",
+      "text_chars": 4730
+    },
+    {
+      "book": "pre",
+      "pdf_page": 148,
+      "printed_page": 106,
+      "unit": 2,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/148.webp",
+      "size": 207292,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e110271e20b5c1f2ce4823feb1d5bb1fbd7f7694136094bd566d95a78b04caae",
+      "text_chars": 3705
+    },
+    {
+      "book": "pre",
+      "pdf_page": 149,
+      "printed_page": 107,
+      "unit": 2,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/149.webp",
+      "size": 219098,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "be357952a530f3fef85713aa353f35e6e92913df27c05f7744d689b434538620",
+      "text_chars": 4107
+    },
+    {
+      "book": "pre",
+      "pdf_page": 150,
+      "printed_page": 108,
+      "unit": 3,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/150.webp",
+      "size": 245458,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b1f28bcb4c8f2b3400c453a53ecf1017ef4197f940643bf6f84ee2ad21c962e7",
+      "text_chars": 4398
+    },
+    {
+      "book": "pre",
+      "pdf_page": 151,
+      "printed_page": 109,
+      "unit": 3,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/151.webp",
+      "size": 215244,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ddfef18b5a0c9397d742bf6b1dc8158e019d96ec451d0ccce1cec40f850123fe",
+      "text_chars": 3726
+    },
+    {
+      "book": "pre",
+      "pdf_page": 152,
+      "printed_page": 110,
+      "unit": 4,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/152.webp",
+      "size": 220104,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5f6ab4fb71480c7c827ec4a7b1044d7476448ca97dbbbec2c963e5b5c82fd6a9",
+      "text_chars": 5036
+    },
+    {
+      "book": "pre",
+      "pdf_page": 153,
+      "printed_page": 111,
+      "unit": 4,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/153.webp",
+      "size": 216580,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6860e02396a836525b052e586cd69f4ea2eb89bee5b8fe963543e821612ec95d",
+      "text_chars": 3647
+    },
+    {
+      "book": "pre",
+      "pdf_page": 154,
+      "printed_page": 112,
+      "unit": 5,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/154.webp",
+      "size": 206386,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c39bf8b141f8b6412fc8ffca982392593eb0ef88ab3a053f4cc2ad784f0d551d",
+      "text_chars": 3991
+    },
+    {
+      "book": "pre",
+      "pdf_page": 155,
+      "printed_page": 113,
+      "unit": 5,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/155.webp",
+      "size": 231316,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3cc25f50b783b4399442cfa28d2557e3cc021e26b560bf3dab566764e5abc86e",
+      "text_chars": 4014
+    },
+    {
+      "book": "pre",
+      "pdf_page": 156,
+      "printed_page": 114,
+      "unit": 6,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/156.webp",
+      "size": 193784,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "77a7d97e19764e04c5ae93d382b27768250a3e56ce06863a1b5977225d042c06",
+      "text_chars": 3513
+    },
+    {
+      "book": "pre",
+      "pdf_page": 157,
+      "printed_page": 115,
+      "unit": 6,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/157.webp",
+      "size": 185906,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f3257a6ef4e99fcbde7e1a96d7ca386b527e4574ef3f584f0f0171305171cdfb",
+      "text_chars": 3303
+    },
+    {
+      "book": "pre",
+      "pdf_page": 158,
+      "printed_page": 116,
+      "unit": 7,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/158.webp",
+      "size": 207342,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "11bb7883ffcd8134c622ec43082d2172da40457f796ebbb6948d8781803cfbe1",
+      "text_chars": 3640
+    },
+    {
+      "book": "pre",
+      "pdf_page": 159,
+      "printed_page": 117,
+      "unit": 7,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/159.webp",
+      "size": 232086,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "afafdefe28dacca14942b7588f12fc3c627b0e159afdacf4df0f8ebfbbaf4115",
+      "text_chars": 4761
+    },
+    {
+      "book": "pre",
+      "pdf_page": 160,
+      "printed_page": 118,
+      "unit": 8,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/160.webp",
+      "size": 216174,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a5b45b48307407308ca94362a03da6b0e90c680843e93b69a1bfa732d77df9aa",
+      "text_chars": 3709
+    },
+    {
+      "book": "pre",
+      "pdf_page": 161,
+      "printed_page": 119,
+      "unit": 8,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/161.webp",
+      "size": 176566,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c8ff10fd1fd8056bce27fbb1f839502a7cf46bcf78badd1aa111a0d94f6bb7ae",
+      "text_chars": 3334
+    },
+    {
+      "book": "pre",
+      "pdf_page": 162,
+      "printed_page": 120,
+      "unit": 9,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/162.webp",
+      "size": 238548,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e672df393f1d9a1814bbeeac152697ed6f51b45905315ca0e51aa2c959a95408",
+      "text_chars": 5119
+    },
+    {
+      "book": "pre",
+      "pdf_page": 163,
+      "printed_page": 121,
+      "unit": 9,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/163.webp",
+      "size": 215846,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5bd1083b235d7414b690394e2039de8fb31892d604dc14fc9e3de32c8c74831e",
+      "text_chars": 3861
+    },
+    {
+      "book": "pre",
+      "pdf_page": 164,
+      "printed_page": 122,
+      "unit": 10,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/164.webp",
+      "size": 217418,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a0ae77a3f3d4551ba1aa48b4f8c2cc7f2624564a7b46454acdc6425f805d6b08",
+      "text_chars": 3955
+    },
+    {
+      "book": "pre",
+      "pdf_page": 165,
+      "printed_page": 123,
+      "unit": 10,
+      "section": "Grammar reference & practice",
+      "image": "books/pre/165.webp",
+      "size": 200426,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1d315a8acf3e84d70f36ecab737fccb4bed54c4512f1b440c0c69318e3d481a1",
+      "text_chars": 3740
+    },
+    {
+      "book": "pre",
+      "pdf_page": 166,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/pre/166.webp",
+      "size": 219390,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "19b2f4c215250cf0cb007fb5736a00c580edc4e97dcc53da226eac832232a8a8",
+      "text_chars": 1591
+    },
+    {
+      "book": "int",
+      "pdf_page": 1,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/int/001.webp",
+      "size": 276368,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a24e327e062ad592020fde244914d1d4b11fc4181d1a43ce85da53db2a6ce49a",
+      "text_chars": 77
+    },
+    {
+      "book": "int",
+      "pdf_page": 2,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/int/002.webp",
+      "size": 30480,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "dfecf7c633a6708420cda123abffb5db726398d4f0b3595fb63b23dfa3467213",
+      "text_chars": 77
+    },
+    {
+      "book": "int",
+      "pdf_page": 3,
+      "printed_page": null,
+      "unit": null,
+      "section": "Содержание",
+      "image": "books/int/003.webp",
+      "size": 196834,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3e48c0f4855b89b0006b05c86a823d6033743955fa1ec6b398c3f2b739e47b1d",
+      "text_chars": 3522
+    },
+    {
+      "book": "int",
+      "pdf_page": 4,
+      "printed_page": null,
+      "unit": null,
+      "section": "Содержание",
+      "image": "books/int/004.webp",
+      "size": 250454,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "114877eda14ccb72cb5841bfb087fec63e90e57ddf1fe16df1242188d40ca844",
+      "text_chars": 4576
+    },
+    {
+      "book": "int",
+      "pdf_page": 5,
+      "printed_page": 4,
+      "unit": 1,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/005.webp",
+      "size": 308694,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cd5bc5dc036ffef767abed381f41d8ff3eb10fdf3daf4228d7654d1b061e1e27",
+      "text_chars": 3410
+    },
+    {
+      "book": "int",
+      "pdf_page": 6,
+      "printed_page": 5,
+      "unit": 1,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/006.webp",
+      "size": 273682,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d4a0615d02b1374f3479ef76fcf92fdab6d60b8b83ef4d64cf1da18d81071700",
+      "text_chars": 3008
+    },
+    {
+      "book": "int",
+      "pdf_page": 7,
+      "printed_page": 6,
+      "unit": 1,
+      "section": "B · Grammar & listening",
+      "image": "books/int/007.webp",
+      "size": 317688,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "eee2cd92fb596dc3037b7d9c18c28fe36181ba4d84e0b0b00babde09769b1146",
+      "text_chars": 2654
+    },
+    {
+      "book": "int",
+      "pdf_page": 8,
+      "printed_page": 7,
+      "unit": 1,
+      "section": "B · Grammar & listening",
+      "image": "books/int/008.webp",
+      "size": 263348,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5ee21acca0a3c0b334dc750226f49aaaf152c6833781420bf85d80f9bcd7e744",
+      "text_chars": 2401
+    },
+    {
+      "book": "int",
+      "pdf_page": 9,
+      "printed_page": 8,
+      "unit": 1,
+      "section": "C · Listening & speaking",
+      "image": "books/int/009.webp",
+      "size": 223242,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7ba3a3d3ecfa544dbce37b92d15d196dde4320cdd14a0a717aca2323fa9fe032",
+      "text_chars": 3165
+    },
+    {
+      "book": "int",
+      "pdf_page": 10,
+      "printed_page": 9,
+      "unit": 1,
+      "section": "C · Listening & speaking",
+      "image": "books/int/010.webp",
+      "size": 203950,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ea0a113893f0988d73d28ca3766a6a2a03687e11ac9cdd9edd4470119a8a9656",
+      "text_chars": 1973
+    },
+    {
+      "book": "int",
+      "pdf_page": 11,
+      "printed_page": 10,
+      "unit": 1,
+      "section": "D · Culture & grammar",
+      "image": "books/int/011.webp",
+      "size": 368192,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0857eede4b7587bc1e54b84708e7160a319529d9f9c44b3679e998d76d407788",
+      "text_chars": 3923
+    },
+    {
+      "book": "int",
+      "pdf_page": 12,
+      "printed_page": 11,
+      "unit": 1,
+      "section": "D · Culture & grammar",
+      "image": "books/int/012.webp",
+      "size": 312698,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "096dc6b3af643123bdacc298ce2a2bfc0cb8175850586963f56570d001033953",
+      "text_chars": 3987
+    },
+    {
+      "book": "int",
+      "pdf_page": 13,
+      "printed_page": 12,
+      "unit": 1,
+      "section": "E · Writing",
+      "image": "books/int/013.webp",
+      "size": 226568,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "63a3810a74300b7e77fb00bbb97ddc3675d425f63f6aa92382fba1923b4ca603",
+      "text_chars": 2813
+    },
+    {
+      "book": "int",
+      "pdf_page": 14,
+      "printed_page": 13,
+      "unit": 1,
+      "section": "E · Writing",
+      "image": "books/int/014.webp",
+      "size": 244116,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6254ee27bb236c1c6c3ca9a74bb81e51193b34bf744f6ca6c313c82f3783073d",
+      "text_chars": 3147
+    },
+    {
+      "book": "int",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "unit": 1,
+      "section": "Vocabulary insight",
+      "image": "books/int/015.webp",
+      "size": 286656,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "694a50534c40edbbc5316bdc211d60643d0ae8d502ca542c9d18b37b230ae5d8",
+      "text_chars": 4710
+    },
+    {
+      "book": "int",
+      "pdf_page": 16,
+      "printed_page": 15,
+      "unit": 1,
+      "section": "Review",
+      "image": "books/int/016.webp",
+      "size": 264622,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3ae989a6dfb5b5d64c83f5153864e22be74bb305a2e254a072309120236ca9a7",
+      "text_chars": 4745
+    },
+    {
+      "book": "int",
+      "pdf_page": 17,
+      "printed_page": 16,
+      "unit": 2,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/017.webp",
+      "size": 305958,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "297e40d413493d248f0d368fc52d14a625b0201941363be72f02c2f08ac10f08",
+      "text_chars": 3491
+    },
+    {
+      "book": "int",
+      "pdf_page": 18,
+      "printed_page": 17,
+      "unit": 2,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/018.webp",
+      "size": 360882,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "07f4ee53ccdbfe5abf56ea7ceff66c85b4ddc8c952b9c5d87ec77bc938eb656d",
+      "text_chars": 4592
+    },
+    {
+      "book": "int",
+      "pdf_page": 19,
+      "printed_page": 18,
+      "unit": 2,
+      "section": "B · Grammar & listening",
+      "image": "books/int/019.webp",
+      "size": 244102,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "15a6702f031e18e902b9eeb1dabef5c62de314b95c87653de59a4b85bf9184aa",
+      "text_chars": 2288
+    },
+    {
+      "book": "int",
+      "pdf_page": 20,
+      "printed_page": 19,
+      "unit": 2,
+      "section": "B · Grammar & listening",
+      "image": "books/int/020.webp",
+      "size": 258722,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "948ec9d060171c2d8b19f9d159329874c92d25f1191334b94128e70a38907800",
+      "text_chars": 3505
+    },
+    {
+      "book": "int",
+      "pdf_page": 21,
+      "printed_page": 20,
+      "unit": 2,
+      "section": "C · Listening & speaking",
+      "image": "books/int/021.webp",
+      "size": 237878,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "19bc4aa389499b6f9d181ea729fd73d17dbcb5b3d967d34f5773e786bdda98ed",
+      "text_chars": 2696
+    },
+    {
+      "book": "int",
+      "pdf_page": 22,
+      "printed_page": 21,
+      "unit": 2,
+      "section": "C · Listening & speaking",
+      "image": "books/int/022.webp",
+      "size": 239782,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9efe087789491084e8f311e8ba1023961ad2acbd35a5698617e278b4a366b838",
+      "text_chars": 3316
+    },
+    {
+      "book": "int",
+      "pdf_page": 23,
+      "printed_page": 22,
+      "unit": 2,
+      "section": "D · Culture & grammar",
+      "image": "books/int/023.webp",
+      "size": 370524,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b878513c51277e07425e2f2c0665fe351abd6a1ce6bd78fbc9ac5eb21474bb03",
+      "text_chars": 4008
+    },
+    {
+      "book": "int",
+      "pdf_page": 24,
+      "printed_page": 23,
+      "unit": 2,
+      "section": "D · Culture & grammar",
+      "image": "books/int/024.webp",
+      "size": 364740,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f61acd94c3af7d3a951ae95b7c7d981d2b6b3fe0ef969e442b4a10ed56525490",
+      "text_chars": 3055
+    },
+    {
+      "book": "int",
+      "pdf_page": 25,
+      "printed_page": 24,
+      "unit": 2,
+      "section": "E · Writing",
+      "image": "books/int/025.webp",
+      "size": 347434,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "336bb3fa0b18ddc2b237fbb3a8766f2b2fb5d7f000ef48e90a7a067dae8ca472",
+      "text_chars": 3498
+    },
+    {
+      "book": "int",
+      "pdf_page": 26,
+      "printed_page": 25,
+      "unit": 2,
+      "section": "E · Writing",
+      "image": "books/int/026.webp",
+      "size": 204680,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "857664b97c346839ac2a45e976f0681c0558ae5bd51177fd53f2111844a62c72",
+      "text_chars": 3200
+    },
+    {
+      "book": "int",
+      "pdf_page": 27,
+      "printed_page": 26,
+      "unit": 2,
+      "section": "Vocabulary insight",
+      "image": "books/int/027.webp",
+      "size": 267222,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "aff66737e58f6f1059ddbb17b29c4ec2023ca17c238fa9bd2ada2a2bfae1da8a",
+      "text_chars": 4489
+    },
+    {
+      "book": "int",
+      "pdf_page": 28,
+      "printed_page": 27,
+      "unit": 2,
+      "section": "Review",
+      "image": "books/int/028.webp",
+      "size": 271450,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c9885f4a8ec26c851e438f9252476738758da37351c4c275e1d6f7b816a250f1",
+      "text_chars": 4319
+    },
+    {
+      "book": "int",
+      "pdf_page": 29,
+      "printed_page": 28,
+      "unit": 2,
+      "section": "Cumulative review",
+      "image": "books/int/029.webp",
+      "size": 305188,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8a7a87595a39b7df23b77e763149a06e919b3d54548899f85626e0989b482be6",
+      "text_chars": 2537
+    },
+    {
+      "book": "int",
+      "pdf_page": 30,
+      "printed_page": 29,
+      "unit": 2,
+      "section": "Cumulative review",
+      "image": "books/int/030.webp",
+      "size": 271712,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3ff3572eab2fc0aa129a48c99f1e7fd3660a4c197d1f27b26e1a42eb71104e76",
+      "text_chars": 3259
+    },
+    {
+      "book": "int",
+      "pdf_page": 31,
+      "printed_page": 30,
+      "unit": 3,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/031.webp",
+      "size": 324040,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8e66db0b1c6dc50c9ace80467489972bec51a3d062db23022a3f26a0fe1c0bc2",
+      "text_chars": 3429
+    },
+    {
+      "book": "int",
+      "pdf_page": 32,
+      "printed_page": 31,
+      "unit": 3,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/032.webp",
+      "size": 273838,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "57de4aa3afa2b1156fc7648d955a3dff5866e006c6494e020282044d251fb10e",
+      "text_chars": 3321
+    },
+    {
+      "book": "int",
+      "pdf_page": 33,
+      "printed_page": 32,
+      "unit": 3,
+      "section": "B · Grammar & listening",
+      "image": "books/int/033.webp",
+      "size": 238062,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ee297a07f7714c04305881e962cbb011d7846221e7e91a48ca37d31ba450900e",
+      "text_chars": 2402
+    },
+    {
+      "book": "int",
+      "pdf_page": 34,
+      "printed_page": 33,
+      "unit": 3,
+      "section": "B · Grammar & listening",
+      "image": "books/int/034.webp",
+      "size": 185656,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "73bf5426f600788ccecc6bbd5066d7dd08f1794b4071ad39958d939a77156a44",
+      "text_chars": 2581
+    },
+    {
+      "book": "int",
+      "pdf_page": 35,
+      "printed_page": 34,
+      "unit": 3,
+      "section": "C · Listening & speaking",
+      "image": "books/int/035.webp",
+      "size": 258482,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2009f66cba341526716ce0a632f670bc43c9f3d84e0a26313a49134cab61cbad",
+      "text_chars": 2064
+    },
+    {
+      "book": "int",
+      "pdf_page": 36,
+      "printed_page": 35,
+      "unit": 3,
+      "section": "C · Listening & speaking",
+      "image": "books/int/036.webp",
+      "size": 184218,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e4f5e88fb4f5ca4b5d26ed87c0b36098bfcc3bb33ffb487faac16e7ca06c0a73",
+      "text_chars": 2199
+    },
+    {
+      "book": "int",
+      "pdf_page": 37,
+      "printed_page": 36,
+      "unit": 3,
+      "section": "D · Culture & grammar",
+      "image": "books/int/037.webp",
+      "size": 363826,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e1eef090523f081c65b91e2bd29a241b6dadec9fb41a99e7de753d50599c0d5b",
+      "text_chars": 4330
+    },
+    {
+      "book": "int",
+      "pdf_page": 38,
+      "printed_page": 37,
+      "unit": 3,
+      "section": "D · Culture & grammar",
+      "image": "books/int/038.webp",
+      "size": 333524,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "de4c846f12f5d9c883622c36064d9474fc64068c07254535877ce902cdc669b5",
+      "text_chars": 3813
+    },
+    {
+      "book": "int",
+      "pdf_page": 39,
+      "printed_page": 38,
+      "unit": 3,
+      "section": "E · Writing",
+      "image": "books/int/039.webp",
+      "size": 241980,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "aa8531215ed89c0fe82c6bf27f749d78be77b59da096911b5fa702a085b6e39d",
+      "text_chars": 2212
+    },
+    {
+      "book": "int",
+      "pdf_page": 40,
+      "printed_page": 39,
+      "unit": 3,
+      "section": "E · Writing",
+      "image": "books/int/040.webp",
+      "size": 285678,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d04a65edc21ea8cc090c0e545d7b6fadb60467c6069c4015321a0864603ddd1d",
+      "text_chars": 3351
+    },
+    {
+      "book": "int",
+      "pdf_page": 41,
+      "printed_page": 40,
+      "unit": 3,
+      "section": "Vocabulary insight",
+      "image": "books/int/041.webp",
+      "size": 223264,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8b54726ea5bf967db166143e3531c5d95ccc6cf9e01267d0018d7488d3b1e00b",
+      "text_chars": 3610
+    },
+    {
+      "book": "int",
+      "pdf_page": 42,
+      "printed_page": 41,
+      "unit": 3,
+      "section": "Review",
+      "image": "books/int/042.webp",
+      "size": 266736,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1a5323f56bf962e33f0137a3931985aa56b6fcf4e360b6c1d321a470d8307eba",
+      "text_chars": 4004
+    },
+    {
+      "book": "int",
+      "pdf_page": 43,
+      "printed_page": 42,
+      "unit": 4,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/043.webp",
+      "size": 325518,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "faa8049840ae2a85bbc432a668cb518fe071ad5136feb5bdc96756a5b8c57e4f",
+      "text_chars": 3735
+    },
+    {
+      "book": "int",
+      "pdf_page": 44,
+      "printed_page": 43,
+      "unit": 4,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/044.webp",
+      "size": 344500,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "85044081ec3e84d9662512c946ee82e402638c6acffd770690bf578c8fdca64a",
+      "text_chars": 4563
+    },
+    {
+      "book": "int",
+      "pdf_page": 45,
+      "printed_page": 44,
+      "unit": 4,
+      "section": "B · Grammar & listening",
+      "image": "books/int/045.webp",
+      "size": 258980,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cda9ea951b6602d45b4363ffd13cb9c8f1cebfcebfd929e8ef7d73dd84954005",
+      "text_chars": 3177
+    },
+    {
+      "book": "int",
+      "pdf_page": 46,
+      "printed_page": 45,
+      "unit": 4,
+      "section": "B · Grammar & listening",
+      "image": "books/int/046.webp",
+      "size": 307954,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "95db3a2dafa2e18e0119b57b09d3d178c5060c427d4bb31decd9284b2f9cec13",
+      "text_chars": 2477
+    },
+    {
+      "book": "int",
+      "pdf_page": 47,
+      "printed_page": 46,
+      "unit": 4,
+      "section": "C · Listening & speaking",
+      "image": "books/int/047.webp",
+      "size": 238198,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "da6f0109802227bbf05aa0487b0932a53126f1449623f1ea0dec7ed26d62564d",
+      "text_chars": 2609
+    },
+    {
+      "book": "int",
+      "pdf_page": 48,
+      "printed_page": 47,
+      "unit": 4,
+      "section": "C · Listening & speaking",
+      "image": "books/int/048.webp",
+      "size": 216178,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b4febe6a5747cb9fee8f709dfac8190079993dc635b5db9868698a9b0d92272d",
+      "text_chars": 3100
+    },
+    {
+      "book": "int",
+      "pdf_page": 49,
+      "printed_page": 48,
+      "unit": 4,
+      "section": "D · Culture & grammar",
+      "image": "books/int/049.webp",
+      "size": 293478,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "90da93baad04c6fda9d60de080b06b07b14de86e31867350c6696314b336f34a",
+      "text_chars": 4133
+    },
+    {
+      "book": "int",
+      "pdf_page": 50,
+      "printed_page": 49,
+      "unit": 4,
+      "section": "D · Culture & grammar",
+      "image": "books/int/050.webp",
+      "size": 285390,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7d2c17229964c2bb53cbf99c537be3a67f3665a997bbb1575cde551243ec4aee",
+      "text_chars": 3313
+    },
+    {
+      "book": "int",
+      "pdf_page": 51,
+      "printed_page": 50,
+      "unit": 4,
+      "section": "E · Writing",
+      "image": "books/int/051.webp",
+      "size": 266278,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cb83f7e6e445ef9242e864c416c046c3152dff6004efaf8e7f9e7714a518842a",
+      "text_chars": 3618
+    },
+    {
+      "book": "int",
+      "pdf_page": 52,
+      "printed_page": 51,
+      "unit": 4,
+      "section": "E · Writing",
+      "image": "books/int/052.webp",
+      "size": 239574,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b6147079bf227ffe7c12aa521ef51168b0f3edd2cd9d2de6b9fb7c57325e1835",
+      "text_chars": 3615
+    },
+    {
+      "book": "int",
+      "pdf_page": 53,
+      "printed_page": 52,
+      "unit": 4,
+      "section": "Vocabulary insight",
+      "image": "books/int/053.webp",
+      "size": 222398,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "680752e4e027cd8df9e72d729db5efbddbc1075b257bf28683d760eb2725b776",
+      "text_chars": 3546
+    },
+    {
+      "book": "int",
+      "pdf_page": 54,
+      "printed_page": 53,
+      "unit": 4,
+      "section": "Review",
+      "image": "books/int/054.webp",
+      "size": 266656,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8bfcf66583fc963cbb26f6cf93ae29c21ad4d6534fbe81e3ea2ff52b1ca16caa",
+      "text_chars": 4192
+    },
+    {
+      "book": "int",
+      "pdf_page": 55,
+      "printed_page": 54,
+      "unit": 4,
+      "section": "Cumulative review",
+      "image": "books/int/055.webp",
+      "size": 289072,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7cebfe40fb43e54ac4c3ddc3ef00f89921f195c661204d1f141ce91fbe987362",
+      "text_chars": 3104
+    },
+    {
+      "book": "int",
+      "pdf_page": 56,
+      "printed_page": 55,
+      "unit": 4,
+      "section": "Cumulative review",
+      "image": "books/int/056.webp",
+      "size": 296020,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "93bb2c8c00ef99c0ee0ab5229ce4314c8ec5b8439656a75d99e651db5a76a301",
+      "text_chars": 3561
+    },
+    {
+      "book": "int",
+      "pdf_page": 57,
+      "printed_page": 56,
+      "unit": 5,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/057.webp",
+      "size": 368832,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3b4731f075f61201e78505709a3e903fa4b7fd237c51061fae3c9cad35ad7acc",
+      "text_chars": 3427
+    },
+    {
+      "book": "int",
+      "pdf_page": 58,
+      "printed_page": 57,
+      "unit": 5,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/058.webp",
+      "size": 420752,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d4aaf696ea0dc6dfbb6f30bf30e82534f8c08f87e4d17dd7c411ac6d96dea1bb",
+      "text_chars": 4730
+    },
+    {
+      "book": "int",
+      "pdf_page": 59,
+      "printed_page": 58,
+      "unit": 5,
+      "section": "B · Grammar & listening",
+      "image": "books/int/059.webp",
+      "size": 206732,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d9ba7803fae0789c095293604b7452f2e7d5dd640018083075c45b54d80afb8d",
+      "text_chars": 2608
+    },
+    {
+      "book": "int",
+      "pdf_page": 60,
+      "printed_page": 59,
+      "unit": 5,
+      "section": "B · Grammar & listening",
+      "image": "books/int/060.webp",
+      "size": 226948,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e7d9f2deaff2c3d15cdb1244bb39459beab3bccc76bddf933793374b9ec34eec",
+      "text_chars": 3131
+    },
+    {
+      "book": "int",
+      "pdf_page": 61,
+      "printed_page": 60,
+      "unit": 5,
+      "section": "C · Listening & speaking",
+      "image": "books/int/061.webp",
+      "size": 213026,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "bc587ab47103396e743d015e68a49ba9ab9c53426901acc89ec62fdefd1678dd",
+      "text_chars": 2835
+    },
+    {
+      "book": "int",
+      "pdf_page": 62,
+      "printed_page": 61,
+      "unit": 5,
+      "section": "C · Listening & speaking",
+      "image": "books/int/062.webp",
+      "size": 199960,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c32df6ac7d0e20b1e9b839c6dbc77f9eba98ed405663f259d7ab67a6c7927d23",
+      "text_chars": 2752
+    },
+    {
+      "book": "int",
+      "pdf_page": 63,
+      "printed_page": 62,
+      "unit": 5,
+      "section": "D · Culture & grammar",
+      "image": "books/int/063.webp",
+      "size": 296224,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a77252810b3ebaa0f8aa6f7fb51f126db4ebe88f1e57d1ab9f6bdcc3d642523e",
+      "text_chars": 3468
+    },
+    {
+      "book": "int",
+      "pdf_page": 64,
+      "printed_page": 63,
+      "unit": 5,
+      "section": "D · Culture & grammar",
+      "image": "books/int/064.webp",
+      "size": 255942,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b6556e6bec596f5ac58a3ab62a95fca452dcca4a9e4c6db61183365d31a97c3a",
+      "text_chars": 3537
+    },
+    {
+      "book": "int",
+      "pdf_page": 65,
+      "printed_page": 64,
+      "unit": 5,
+      "section": "E · Writing",
+      "image": "books/int/065.webp",
+      "size": 187330,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "50acdff7c172077bc687676ad30072c26c8ac141f9443ce13f458257eb5e3dbe",
+      "text_chars": 1795
+    },
+    {
+      "book": "int",
+      "pdf_page": 66,
+      "printed_page": 65,
+      "unit": 5,
+      "section": "E · Writing",
+      "image": "books/int/066.webp",
+      "size": 238416,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "476b788dee270e6d20aafadcd2ae03cf205a3f4ea286bc8e803a16e72ae630e1",
+      "text_chars": 3734
+    },
+    {
+      "book": "int",
+      "pdf_page": 67,
+      "printed_page": 66,
+      "unit": 5,
+      "section": "Vocabulary insight",
+      "image": "books/int/067.webp",
+      "size": 285250,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0859f6b509cc120e6f8321bcd6d7763e92a12be54f4874834f5a853045c79b99",
+      "text_chars": 4612
+    },
+    {
+      "book": "int",
+      "pdf_page": 68,
+      "printed_page": 67,
+      "unit": 5,
+      "section": "Review",
+      "image": "books/int/068.webp",
+      "size": 268310,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "71fc52ef125e857e51aa2aa640d804d61fec97c5b5cab8c5d0a9d420f26014d2",
+      "text_chars": 4945
+    },
+    {
+      "book": "int",
+      "pdf_page": 69,
+      "printed_page": 68,
+      "unit": 6,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/069.webp",
+      "size": 379708,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d3e9b068f5b2bd8011d04a7b01125ba785abebed022e4a607706169709d6be9c",
+      "text_chars": 3646
+    },
+    {
+      "book": "int",
+      "pdf_page": 70,
+      "printed_page": 69,
+      "unit": 6,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/070.webp",
+      "size": 361180,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7f5f3d506434a0614e02fabf74723daaaa60ac8ef79f4ff8d589c2ac336b2739",
+      "text_chars": 4759
+    },
+    {
+      "book": "int",
+      "pdf_page": 71,
+      "printed_page": 70,
+      "unit": 6,
+      "section": "B · Grammar & listening",
+      "image": "books/int/071.webp",
+      "size": 297406,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "aab2ff92c2aa8a8302f6f6636f6601189cd3cc962555b7b6757fc3c22d1d3df4",
+      "text_chars": 3306
+    },
+    {
+      "book": "int",
+      "pdf_page": 72,
+      "printed_page": 71,
+      "unit": 6,
+      "section": "B · Grammar & listening",
+      "image": "books/int/072.webp",
+      "size": 179894,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "14064e24c00b36372d0b550dd21124996abb600cee6a34e8dc59113f693b56aa",
+      "text_chars": 2261
+    },
+    {
+      "book": "int",
+      "pdf_page": 73,
+      "printed_page": 72,
+      "unit": 6,
+      "section": "C · Listening & speaking",
+      "image": "books/int/073.webp",
+      "size": 209248,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b73067251192a1104d882abff8b71750b76302794d1ca89af83ad11e02d4eb76",
+      "text_chars": 2490
+    },
+    {
+      "book": "int",
+      "pdf_page": 74,
+      "printed_page": 73,
+      "unit": 6,
+      "section": "C · Listening & speaking",
+      "image": "books/int/074.webp",
+      "size": 297432,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "51ff3a6a3b64a9d0ee3e3b4ade6986fed5823d0021afd772709d9b0e99d170df",
+      "text_chars": 2428
+    },
+    {
+      "book": "int",
+      "pdf_page": 75,
+      "printed_page": 74,
+      "unit": 6,
+      "section": "D · Culture & grammar",
+      "image": "books/int/075.webp",
+      "size": 333594,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a6b79a1f599bb0ac50bbd51d81a0827ae719b1f5907aba28d6d2c91bd9a3ab19",
+      "text_chars": 3540
+    },
+    {
+      "book": "int",
+      "pdf_page": 76,
+      "printed_page": 75,
+      "unit": 6,
+      "section": "D · Culture & grammar",
+      "image": "books/int/076.webp",
+      "size": 310524,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "02a358a5be7f3b9cba23d3fbc63de50de4524afbc055eee241be104bd5e975ea",
+      "text_chars": 4860
+    },
+    {
+      "book": "int",
+      "pdf_page": 77,
+      "printed_page": 76,
+      "unit": 6,
+      "section": "E · Writing",
+      "image": "books/int/077.webp",
+      "size": 196322,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e9ca9a40eb6053ccf54d6842618a39f647f2d394970a7248873992e8c7ce7946",
+      "text_chars": 2716
+    },
+    {
+      "book": "int",
+      "pdf_page": 78,
+      "printed_page": 77,
+      "unit": 6,
+      "section": "E · Writing",
+      "image": "books/int/078.webp",
+      "size": 256898,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d3a138faad422070f834c4f624b1e957b79e1152c8770a6c44b23d13d01fdc6d",
+      "text_chars": 3991
+    },
+    {
+      "book": "int",
+      "pdf_page": 79,
+      "printed_page": 78,
+      "unit": 6,
+      "section": "Vocabulary insight",
+      "image": "books/int/079.webp",
+      "size": 269092,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e7c7607a8ce61c752f8955a1d299ab5d8f55dabb8625a9cd82199897a4254789",
+      "text_chars": 5369
+    },
+    {
+      "book": "int",
+      "pdf_page": 80,
+      "printed_page": 79,
+      "unit": 6,
+      "section": "Review",
+      "image": "books/int/080.webp",
+      "size": 296912,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "909c68ab8f9601b931363c3f74a1794de75dc967e6efc433d333a52c469cd548",
+      "text_chars": 4560
+    },
+    {
+      "book": "int",
+      "pdf_page": 81,
+      "printed_page": 80,
+      "unit": 6,
+      "section": "Cumulative review",
+      "image": "books/int/081.webp",
+      "size": 331034,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3abfa74cd7b4df360396c0cdd6c8d9522b78f3d49e7dfbead55494ffcce9debb",
+      "text_chars": 2046
+    },
+    {
+      "book": "int",
+      "pdf_page": 82,
+      "printed_page": 81,
+      "unit": 6,
+      "section": "Cumulative review",
+      "image": "books/int/082.webp",
+      "size": 322556,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5cd75ae253fd37308ced56b696665d24a14fcc57119f114851c8d480171ca5fa",
+      "text_chars": 4023
+    },
+    {
+      "book": "int",
+      "pdf_page": 83,
+      "printed_page": 82,
+      "unit": 7,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/083.webp",
+      "size": 312224,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f4b1c12d37a978d544ef1e83b4e957dbbdcf8144bd63a6e92a326cd3a1deae14",
+      "text_chars": 3362
+    },
+    {
+      "book": "int",
+      "pdf_page": 84,
+      "printed_page": 83,
+      "unit": 7,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/084.webp",
+      "size": 307372,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "51ee05d4ae9ffcc1be38e8fe9c0182d67068ef748205b111153d340aab667eab",
+      "text_chars": 4141
+    },
+    {
+      "book": "int",
+      "pdf_page": 85,
+      "printed_page": 84,
+      "unit": 7,
+      "section": "B · Grammar & listening",
+      "image": "books/int/085.webp",
+      "size": 221988,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "30f58b2b2b38bc4f376bff192cae31b439d80a694d75862739ba771d2353b97c",
+      "text_chars": 2288
+    },
+    {
+      "book": "int",
+      "pdf_page": 86,
+      "printed_page": 85,
+      "unit": 7,
+      "section": "B · Grammar & listening",
+      "image": "books/int/086.webp",
+      "size": 175658,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "c54727f157f43da94ff911db5ea0b6272ee1ed07296e298658643a6b5a999ed3",
+      "text_chars": 2329
+    },
+    {
+      "book": "int",
+      "pdf_page": 87,
+      "printed_page": 86,
+      "unit": 7,
+      "section": "C · Listening & speaking",
+      "image": "books/int/087.webp",
+      "size": 249648,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "5d819bc3aaee4894bd8d45dd0ec7fc77df2f3747f6e5136b167483d2830a7bdc",
+      "text_chars": 3084
+    },
+    {
+      "book": "int",
+      "pdf_page": 88,
+      "printed_page": 87,
+      "unit": 7,
+      "section": "C · Listening & speaking",
+      "image": "books/int/088.webp",
+      "size": 196366,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cd1c7d39373095fa64b3b65b3e9248712407be522d2564cb1481ea9ed04851b9",
+      "text_chars": 2803
+    },
+    {
+      "book": "int",
+      "pdf_page": 89,
+      "printed_page": 88,
+      "unit": 7,
+      "section": "D · Culture & grammar",
+      "image": "books/int/089.webp",
+      "size": 375780,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "beeb5d34ac524a9b5b69fab27a63307010e5771b4c1af21cc40f7e6ada31b3be",
+      "text_chars": 4174
+    },
+    {
+      "book": "int",
+      "pdf_page": 90,
+      "printed_page": 89,
+      "unit": 7,
+      "section": "D · Culture & grammar",
+      "image": "books/int/090.webp",
+      "size": 346176,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "bf6f20d054e53753eadcc2550f1599e9968357f850f15e0667976158bd19f865",
+      "text_chars": 3746
+    },
+    {
+      "book": "int",
+      "pdf_page": 91,
+      "printed_page": 90,
+      "unit": 7,
+      "section": "E · Writing",
+      "image": "books/int/091.webp",
+      "size": 204268,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "76d8c6a54594c48d22bc0ae83b1df42a4abe0d70f82b670f3fcf9468ea3728de",
+      "text_chars": 3031
+    },
+    {
+      "book": "int",
+      "pdf_page": 92,
+      "printed_page": 91,
+      "unit": 7,
+      "section": "E · Writing",
+      "image": "books/int/092.webp",
+      "size": 151052,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d700f52ae822130bb9394f3f2b8cbb2fc9b947d26813406fc963918afda3a13a",
+      "text_chars": 2157
+    },
+    {
+      "book": "int",
+      "pdf_page": 93,
+      "printed_page": 92,
+      "unit": 7,
+      "section": "Vocabulary insight",
+      "image": "books/int/093.webp",
+      "size": 278140,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "dc70405229c6c3b05ef1fe9320676abe30b13830045c176cd58de3a0dfe36788",
+      "text_chars": 4939
+    },
+    {
+      "book": "int",
+      "pdf_page": 94,
+      "printed_page": 93,
+      "unit": 7,
+      "section": "Review",
+      "image": "books/int/094.webp",
+      "size": 274718,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "01e48ad909848a719ceddf9cf77bb3796c1e02652e9b3d11e942e61fb3599858",
+      "text_chars": 5047
+    },
+    {
+      "book": "int",
+      "pdf_page": 95,
+      "printed_page": 94,
+      "unit": 8,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/095.webp",
+      "size": 355180,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "654375cfec6fde89f142923c3ca0fc136ab79cf9430490619f5dd98ce8a5c41c",
+      "text_chars": 3933
+    },
+    {
+      "book": "int",
+      "pdf_page": 96,
+      "printed_page": 95,
+      "unit": 8,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/096.webp",
+      "size": 356000,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "435a9a83b2710da8016091548304701944dded69916cbea0d1115f1469d3ab6b",
+      "text_chars": 4071
+    },
+    {
+      "book": "int",
+      "pdf_page": 97,
+      "printed_page": 96,
+      "unit": 8,
+      "section": "B · Grammar & listening",
+      "image": "books/int/097.webp",
+      "size": 257354,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9a867e3c6ab45e0eebd6a5f9c1ae1f3f2fa9af419216bbe31238d90f51e0f363",
+      "text_chars": 3799
+    },
+    {
+      "book": "int",
+      "pdf_page": 98,
+      "printed_page": 97,
+      "unit": 8,
+      "section": "B · Grammar & listening",
+      "image": "books/int/098.webp",
+      "size": 188964,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7442c529d0855a9ca30ce78ac90ad8db5549b9908ec60fa8411795f1e2a209cf",
+      "text_chars": 2277
+    },
+    {
+      "book": "int",
+      "pdf_page": 99,
+      "printed_page": 98,
+      "unit": 8,
+      "section": "C · Listening & speaking",
+      "image": "books/int/099.webp",
+      "size": 211236,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a0e8fe8165275f15c683df65bd52d3af33401f1b6eb7d82f32e4541331f18b76",
+      "text_chars": 2596
+    },
+    {
+      "book": "int",
+      "pdf_page": 100,
+      "printed_page": 99,
+      "unit": 8,
+      "section": "C · Listening & speaking",
+      "image": "books/int/100.webp",
+      "size": 187400,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "70357d5b42087b496f368191c02966729fb870b835fb92a6aade375529664d0f",
+      "text_chars": 2707
+    },
+    {
+      "book": "int",
+      "pdf_page": 101,
+      "printed_page": 100,
+      "unit": 8,
+      "section": "D · Culture & grammar",
+      "image": "books/int/101.webp",
+      "size": 310050,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b80679e20c84ce66f39d954ccdf96f3c41d5a0079ed126dee9c6b3d45b08b9e7",
+      "text_chars": 4179
+    },
+    {
+      "book": "int",
+      "pdf_page": 102,
+      "printed_page": 101,
+      "unit": 8,
+      "section": "D · Culture & grammar",
+      "image": "books/int/102.webp",
+      "size": 289830,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "cdc6c642bad9e641a83cf9e424886eafb9b532b1f97eb3690dfbf2e77b2aa397",
+      "text_chars": 4003
+    },
+    {
+      "book": "int",
+      "pdf_page": 103,
+      "printed_page": 102,
+      "unit": 8,
+      "section": "E · Writing",
+      "image": "books/int/103.webp",
+      "size": 196334,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "83ed80e06c6f717452a933f06393178a3bc1be63d1b2947d8ce38d58589433a8",
+      "text_chars": 2279
+    },
+    {
+      "book": "int",
+      "pdf_page": 104,
+      "printed_page": 103,
+      "unit": 8,
+      "section": "E · Writing",
+      "image": "books/int/104.webp",
+      "size": 249012,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "643113382a308e6c5f153628e8f714d0901a4fcfccb9a1471e9c62449fe235ae",
+      "text_chars": 3011
+    },
+    {
+      "book": "int",
+      "pdf_page": 105,
+      "printed_page": 104,
+      "unit": 8,
+      "section": "Vocabulary insight",
+      "image": "books/int/105.webp",
+      "size": 287478,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d46854f198513854504158e192c9ded1e59753f61c2616b87e2d922fbf3c741d",
+      "text_chars": 4568
+    },
+    {
+      "book": "int",
+      "pdf_page": 106,
+      "printed_page": 105,
+      "unit": 8,
+      "section": "Review",
+      "image": "books/int/106.webp",
+      "size": 262768,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e83cfbcd89605fa9d7869a6768d7ff94c94fd729747786e658d7b4a18b71ec3d",
+      "text_chars": 4647
+    },
+    {
+      "book": "int",
+      "pdf_page": 107,
+      "printed_page": 106,
+      "unit": 8,
+      "section": "Cumulative review",
+      "image": "books/int/107.webp",
+      "size": 280848,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b6dc4c5ab4f7bab54bbe3acf73f530bd1c0621060e9e6d608c65a0b3321dc412",
+      "text_chars": 4145
+    },
+    {
+      "book": "int",
+      "pdf_page": 108,
+      "printed_page": 107,
+      "unit": 8,
+      "section": "Cumulative review",
+      "image": "books/int/108.webp",
+      "size": 238036,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3ef86b221112393a8aa2243b16740b80295c3313f1c27623827cca8a126a51c9",
+      "text_chars": 3296
+    },
+    {
+      "book": "int",
+      "pdf_page": 109,
+      "printed_page": 108,
+      "unit": 9,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/109.webp",
+      "size": 288888,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7317a961b109f966760f76122cdd9ead6ff7e756787ca67102ae5ef97585bcda",
+      "text_chars": 3344
+    },
+    {
+      "book": "int",
+      "pdf_page": 110,
+      "printed_page": 109,
+      "unit": 9,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/110.webp",
+      "size": 298720,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "da397bc73876bd79c20657017e0bbabb9adeefb38b8ee6bb61c8b7739ddff2ee",
+      "text_chars": 4238
+    },
+    {
+      "book": "int",
+      "pdf_page": 111,
+      "printed_page": 110,
+      "unit": 9,
+      "section": "B · Grammar & listening",
+      "image": "books/int/111.webp",
+      "size": 270218,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "06de26d81c66e673c0f34e03795fee48b22cc7f333e42260fdbbffe03e7ac78f",
+      "text_chars": 1979
+    },
+    {
+      "book": "int",
+      "pdf_page": 112,
+      "printed_page": 111,
+      "unit": 9,
+      "section": "B · Grammar & listening",
+      "image": "books/int/112.webp",
+      "size": 190554,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7eb0a3b4126e083636bd61400ba31f466b1a06200d2ef2bb1127599f03bf0e84",
+      "text_chars": 2731
+    },
+    {
+      "book": "int",
+      "pdf_page": 113,
+      "printed_page": 112,
+      "unit": 9,
+      "section": "C · Listening & speaking",
+      "image": "books/int/113.webp",
+      "size": 263274,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "52e069ec7c74d5cf2ce24498ddf348929dd42b04771227970aee4e29ea215e79",
+      "text_chars": 2608
+    },
+    {
+      "book": "int",
+      "pdf_page": 114,
+      "printed_page": 113,
+      "unit": 9,
+      "section": "C · Listening & speaking",
+      "image": "books/int/114.webp",
+      "size": 177596,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "436e907e7f255f41ef664b083856a1b436ff5d17d43380a7400c4783f60bebdb",
+      "text_chars": 2913
+    },
+    {
+      "book": "int",
+      "pdf_page": 115,
+      "printed_page": 114,
+      "unit": 9,
+      "section": "D · Culture & grammar",
+      "image": "books/int/115.webp",
+      "size": 220114,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e79052e53f8d25466da591d844a065234adb40ad5fc86c7e8ef8f7a14314b0af",
+      "text_chars": 1843
+    },
+    {
+      "book": "int",
+      "pdf_page": 116,
+      "printed_page": 115,
+      "unit": 9,
+      "section": "D · Culture & grammar",
+      "image": "books/int/116.webp",
+      "size": 319794,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b14b8cc69dc203c5b528abb5d23a0ed6ccd61a5f2fa3f762c0430545442dcf0f",
+      "text_chars": 4188
+    },
+    {
+      "book": "int",
+      "pdf_page": 117,
+      "printed_page": 116,
+      "unit": 9,
+      "section": "E · Writing",
+      "image": "books/int/117.webp",
+      "size": 239900,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "0266352926f8f932ba9578681b8299c2ced52e29c8fc229ac01586aa6294d70a",
+      "text_chars": 3442
+    },
+    {
+      "book": "int",
+      "pdf_page": 118,
+      "printed_page": 117,
+      "unit": 9,
+      "section": "E · Writing",
+      "image": "books/int/118.webp",
+      "size": 182954,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1b9f284d83651b7ef2366067a6660001ed97eb9a5f81af6703f3d138612beeb8",
+      "text_chars": 2820
+    },
+    {
+      "book": "int",
+      "pdf_page": 119,
+      "printed_page": 118,
+      "unit": 9,
+      "section": "Vocabulary insight",
+      "image": "books/int/119.webp",
+      "size": 253642,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9f342f5133f37fbf81c378bf95f5513870b4a843e3a0724d3d66922075f9ddd5",
+      "text_chars": 4394
+    },
+    {
+      "book": "int",
+      "pdf_page": 120,
+      "printed_page": 119,
+      "unit": 9,
+      "section": "Review",
+      "image": "books/int/120.webp",
+      "size": 237712,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4a67b592a9854e615c44de529ea94ce80868663ad9a518bb758cdce01b7b0578",
+      "text_chars": 3548
+    },
+    {
+      "book": "int",
+      "pdf_page": 121,
+      "printed_page": 120,
+      "unit": 10,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/121.webp",
+      "size": 300730,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3d8d264f6a6bdfb7060aef57646b8b9fff3e6a0670d3776afd55d269aed4a65f",
+      "text_chars": 4075
+    },
+    {
+      "book": "int",
+      "pdf_page": 122,
+      "printed_page": 121,
+      "unit": 10,
+      "section": "A · Reading & vocabulary",
+      "image": "books/int/122.webp",
+      "size": 332992,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a222712220f1d9418725db9d72c9ce6894e0a5436ee5898457257eb958f81808",
+      "text_chars": 4626
+    },
+    {
+      "book": "int",
+      "pdf_page": 123,
+      "printed_page": 122,
+      "unit": 10,
+      "section": "B · Grammar & listening",
+      "image": "books/int/123.webp",
+      "size": 403482,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "3a523f2981b8222939f2ba6e44584ac3fd90cbfd655cf60c6615cab5139c5040",
+      "text_chars": 3340
+    },
+    {
+      "book": "int",
+      "pdf_page": 124,
+      "printed_page": 123,
+      "unit": 10,
+      "section": "B · Grammar & listening",
+      "image": "books/int/124.webp",
+      "size": 342542,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7a0761787c6ce2c6483fb06300716073aba1309091446d30da977ec65273f452",
+      "text_chars": 2622
+    },
+    {
+      "book": "int",
+      "pdf_page": 125,
+      "printed_page": 124,
+      "unit": 10,
+      "section": "C · Listening & speaking",
+      "image": "books/int/125.webp",
+      "size": 250472,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "09ca2f98b9d4ca69ee7bc34b78d8757b8bf30696b9888c6d6435bb7eca15cab6",
+      "text_chars": 2887
+    },
+    {
+      "book": "int",
+      "pdf_page": 126,
+      "printed_page": 125,
+      "unit": 10,
+      "section": "C · Listening & speaking",
+      "image": "books/int/126.webp",
+      "size": 158974,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4e597d0a876cbf801e71639431ebc88d40523c909c22555b600c9bbd1432e353",
+      "text_chars": 1673
+    },
+    {
+      "book": "int",
+      "pdf_page": 127,
+      "printed_page": 126,
+      "unit": 10,
+      "section": "D · Culture & grammar",
+      "image": "books/int/127.webp",
+      "size": 332352,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "733f301b7f0c992b641fd43d4ce50b1804ba3c194f65c7f3d5c4da9db9b0833d",
+      "text_chars": 3840
+    },
+    {
+      "book": "int",
+      "pdf_page": 128,
+      "printed_page": 127,
+      "unit": 10,
+      "section": "D · Culture & grammar",
+      "image": "books/int/128.webp",
+      "size": 355204,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "eb81b68a59969698e00958e1b90610f7e4ee4c96bf1a309d6a9a5f4c4ce291b4",
+      "text_chars": 4683
+    },
+    {
+      "book": "int",
+      "pdf_page": 129,
+      "printed_page": 128,
+      "unit": 10,
+      "section": "E · Writing",
+      "image": "books/int/129.webp",
+      "size": 251174,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2e4c3e9cde2000114181d6fc35838d2bf1030d6b7144fe56820c4efd02a71f78",
+      "text_chars": 3159
+    },
+    {
+      "book": "int",
+      "pdf_page": 130,
+      "printed_page": 129,
+      "unit": 10,
+      "section": "E · Writing",
+      "image": "books/int/130.webp",
+      "size": 169990,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "56bf74bcac0ab0787210654fb34772aa9e7a99ae1246531b72e6413c947d500f",
+      "text_chars": 2701
+    },
+    {
+      "book": "int",
+      "pdf_page": 131,
+      "printed_page": 130,
+      "unit": 10,
+      "section": "Vocabulary insight",
+      "image": "books/int/131.webp",
+      "size": 234838,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "60dc08fa1abeaa61480e7efe6e9a6dcaf08ad0ae41f19a6e6a10a4ee2b41f8d9",
+      "text_chars": 4116
+    },
+    {
+      "book": "int",
+      "pdf_page": 132,
+      "printed_page": 131,
+      "unit": 10,
+      "section": "Review",
+      "image": "books/int/132.webp",
+      "size": 237050,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "92c89d57c0afe44839161c50a05b3d92f072d2abd23a93a85cf1c5f6f2bf4205",
+      "text_chars": 3730
+    },
+    {
+      "book": "int",
+      "pdf_page": 133,
+      "printed_page": 132,
+      "unit": 10,
+      "section": "Cumulative review",
+      "image": "books/int/133.webp",
+      "size": 300140,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b349915f8c3776c2d77d86e3ce6caca55292751041475bad0aae8b6d0c8fad76",
+      "text_chars": 4124
+    },
+    {
+      "book": "int",
+      "pdf_page": 134,
+      "printed_page": 133,
+      "unit": 10,
+      "section": "Cumulative review",
+      "image": "books/int/134.webp",
+      "size": 291476,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "6144be6c34066983fc56fcd07157ad8954e4690bcff29d154389d34f76e44e2b",
+      "text_chars": 3313
+    },
+    {
+      "book": "int",
+      "pdf_page": 135,
+      "printed_page": 134,
+      "unit": 1,
+      "section": "Vocabulary bank",
+      "image": "books/int/135.webp",
+      "size": 239134,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e71478af31690a3cb923ebd4a2f553fcf96a32e9f2c3a03c311425a3964af902",
+      "text_chars": 2260
+    },
+    {
+      "book": "int",
+      "pdf_page": 136,
+      "printed_page": 135,
+      "unit": 2,
+      "section": "Vocabulary bank",
+      "image": "books/int/136.webp",
+      "size": 284004,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "1141e98696f41e872f1a496164620d4d3e2739ee8bd2ca27b33f2932e6271d47",
+      "text_chars": 4529
+    },
+    {
+      "book": "int",
+      "pdf_page": 137,
+      "printed_page": 136,
+      "unit": 3,
+      "section": "Vocabulary bank",
+      "image": "books/int/137.webp",
+      "size": 205938,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "f26ba142154e151a14b5f7b9ba25e48f380a8d4968a92138ba1b5e91f5347c34",
+      "text_chars": 2935
+    },
+    {
+      "book": "int",
+      "pdf_page": 138,
+      "printed_page": 137,
+      "unit": 4,
+      "section": "Vocabulary bank",
+      "image": "books/int/138.webp",
+      "size": 254294,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "efc3d85826666da9a420eefd81d30b9fa94c30ec9e2bff8dc37d076bcc0862a0",
+      "text_chars": 2514
+    },
+    {
+      "book": "int",
+      "pdf_page": 139,
+      "printed_page": 138,
+      "unit": 5,
+      "section": "Vocabulary bank",
+      "image": "books/int/139.webp",
+      "size": 243308,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "a427f972378f1cd0ee492a9f859254f827a04dc3c91012145aafa2d0c9947d50",
+      "text_chars": 3395
+    },
+    {
+      "book": "int",
+      "pdf_page": 140,
+      "printed_page": 139,
+      "unit": 6,
+      "section": "Vocabulary bank",
+      "image": "books/int/140.webp",
+      "size": 277256,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8a20c63659d9ed29a8b7033b011bddb301b64d372739d58c5372fe0e408fbdf8",
+      "text_chars": 4503
+    },
+    {
+      "book": "int",
+      "pdf_page": 141,
+      "printed_page": 140,
+      "unit": 7,
+      "section": "Vocabulary bank",
+      "image": "books/int/141.webp",
+      "size": 197876,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "db34f0483dcbf5cf299a351ac031748136034c4fbcc40a32d985189781032bcd",
+      "text_chars": 2501
+    },
+    {
+      "book": "int",
+      "pdf_page": 142,
+      "printed_page": 141,
+      "unit": 8,
+      "section": "Vocabulary bank",
+      "image": "books/int/142.webp",
+      "size": 253718,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "11d01b79e73efd23cae1bf393e940453f89421d2ca8e17bf274ce4bb1dfcc5f9",
+      "text_chars": 3115
+    },
+    {
+      "book": "int",
+      "pdf_page": 143,
+      "printed_page": 142,
+      "unit": 9,
+      "section": "Vocabulary bank",
+      "image": "books/int/143.webp",
+      "size": 268560,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "e167e7cafaec9927f8d3cfa2b047868eadd479549b71bcefb084736482fcc534",
+      "text_chars": 4249
+    },
+    {
+      "book": "int",
+      "pdf_page": 144,
+      "printed_page": 143,
+      "unit": 10,
+      "section": "Vocabulary bank",
+      "image": "books/int/144.webp",
+      "size": 232998,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4da1a216ff6d3c68385adc94aaf7516c6c50ce7ad447c8fc0362f5a794ae4984",
+      "text_chars": 3622
+    },
+    {
+      "book": "int",
+      "pdf_page": 145,
+      "printed_page": null,
+      "unit": null,
+      "section": "Издательские сведения",
+      "image": "books/int/145.webp",
+      "size": 582878,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "fbc00bd3ab6d097e4fc26021515fd498653db14dfec2654291fcba4c2370061e",
+      "text_chars": 12491
+    },
+    {
+      "book": "int",
+      "pdf_page": 146,
+      "printed_page": 104,
+      "unit": 1,
+      "section": "Grammar reference & practice",
+      "image": "books/int/146.webp",
+      "size": 227706,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ce16b6a1b386d465479ba0494ebe82403c81984635be45a8ce77e26cbcbfebd0",
+      "text_chars": 3808
+    },
+    {
+      "book": "int",
+      "pdf_page": 147,
+      "printed_page": 105,
+      "unit": 1,
+      "section": "Grammar reference & practice",
+      "image": "books/int/147.webp",
+      "size": 232482,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "835082130910118f7bb95499873d7b4a09d92a682cc5da4a68195aa9c42be1f9",
+      "text_chars": 4109
+    },
+    {
+      "book": "int",
+      "pdf_page": 148,
+      "printed_page": 106,
+      "unit": 2,
+      "section": "Grammar reference & practice",
+      "image": "books/int/148.webp",
+      "size": 232238,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "28fa4d197a21849ba3baa7a1b510603583c5c985cbac45eb0e45c0c8704f177d",
+      "text_chars": 3885
+    },
+    {
+      "book": "int",
+      "pdf_page": 149,
+      "printed_page": 107,
+      "unit": 2,
+      "section": "Grammar reference & practice",
+      "image": "books/int/149.webp",
+      "size": 250352,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "9a2673b99e473f42643c581132ed21c5ff9dd61e03340490533db7e104e0da74",
+      "text_chars": 4353
+    },
+    {
+      "book": "int",
+      "pdf_page": 150,
+      "printed_page": 108,
+      "unit": 3,
+      "section": "Grammar reference & practice",
+      "image": "books/int/150.webp",
+      "size": 215972,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "25666f063f25fe4f078ab8ddb0601809fb80553fe1c07572389b9dc4afe96062",
+      "text_chars": 3676
+    },
+    {
+      "book": "int",
+      "pdf_page": 151,
+      "printed_page": 109,
+      "unit": 3,
+      "section": "Grammar reference & practice",
+      "image": "books/int/151.webp",
+      "size": 224064,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "37e25aafeac48697c5574834857f0d963e1b291d4bee234ac94515a283216e32",
+      "text_chars": 3955
+    },
+    {
+      "book": "int",
+      "pdf_page": 152,
+      "printed_page": 110,
+      "unit": 4,
+      "section": "Grammar reference & practice",
+      "image": "books/int/152.webp",
+      "size": 247752,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "2a601b39111c5b0a32680ac89104211e15e343de048a2c4a71955552a782b0ac",
+      "text_chars": 4089
+    },
+    {
+      "book": "int",
+      "pdf_page": 153,
+      "printed_page": 111,
+      "unit": 4,
+      "section": "Grammar reference & practice",
+      "image": "books/int/153.webp",
+      "size": 173328,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b88751258a17f75cf05652f26bf5bfcc0b733b0d5d952647a63af800c071df73",
+      "text_chars": 3053
+    },
+    {
+      "book": "int",
+      "pdf_page": 154,
+      "printed_page": 112,
+      "unit": 5,
+      "section": "Grammar reference & practice",
+      "image": "books/int/154.webp",
+      "size": 225916,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "22b3e19287ea5e18d398dfbe8ba353475229634b229e8a78a5408cdc0ee2820c",
+      "text_chars": 4241
+    },
+    {
+      "book": "int",
+      "pdf_page": 155,
+      "printed_page": 113,
+      "unit": 5,
+      "section": "Grammar reference & practice",
+      "image": "books/int/155.webp",
+      "size": 240518,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "8ce45ea8441f9245a3a379a5b00e0a28b44c7196e3f1b845a670906fc81dced5",
+      "text_chars": 4327
+    },
+    {
+      "book": "int",
+      "pdf_page": 156,
+      "printed_page": 114,
+      "unit": 6,
+      "section": "Grammar reference & practice",
+      "image": "books/int/156.webp",
+      "size": 214304,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "29226c42e5a8d7c6f4cbd8a1eb210ec657e2e904156feb6324ca907077e3cb64",
+      "text_chars": 3726
+    },
+    {
+      "book": "int",
+      "pdf_page": 157,
+      "printed_page": 115,
+      "unit": 6,
+      "section": "Grammar reference & practice",
+      "image": "books/int/157.webp",
+      "size": 211348,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "4c46dc6a963d3c5b7b9a85c80217602c1d50bc57c6cf0fac3224d22b87b9e317",
+      "text_chars": 3607
+    },
+    {
+      "book": "int",
+      "pdf_page": 158,
+      "printed_page": 116,
+      "unit": 7,
+      "section": "Grammar reference & practice",
+      "image": "books/int/158.webp",
+      "size": 208110,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ea080c7ef38dff136dc3d9f9ac366def6a538492c923d507bb54e963c4093363",
+      "text_chars": 3586
+    },
+    {
+      "book": "int",
+      "pdf_page": 159,
+      "printed_page": 117,
+      "unit": 7,
+      "section": "Grammar reference & practice",
+      "image": "books/int/159.webp",
+      "size": 207254,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "d861bc4e60206bd98f5f1ad5bc426aa05e539956f175a9d4805a5344dea47d75",
+      "text_chars": 3240
+    },
+    {
+      "book": "int",
+      "pdf_page": 160,
+      "printed_page": 118,
+      "unit": 8,
+      "section": "Grammar reference & practice",
+      "image": "books/int/160.webp",
+      "size": 231164,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "bc2b836a25b536e369c76f96a2a700ff9dbc112256f84ea9ff1d67c65ac0203a",
+      "text_chars": 4320
+    },
+    {
+      "book": "int",
+      "pdf_page": 161,
+      "printed_page": 119,
+      "unit": 8,
+      "section": "Grammar reference & practice",
+      "image": "books/int/161.webp",
+      "size": 246994,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "297f97b562cabb16cf64b141f7d46b712d554d1eff2a92358aecdaf657f63a21",
+      "text_chars": 4567
+    },
+    {
+      "book": "int",
+      "pdf_page": 162,
+      "printed_page": 120,
+      "unit": 9,
+      "section": "Grammar reference & practice",
+      "image": "books/int/162.webp",
+      "size": 229150,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "7a28c46bb28e58ce5ac987a8d3d9abef8124549151f9e726ed055373dc1fde35",
+      "text_chars": 3827
+    },
+    {
+      "book": "int",
+      "pdf_page": 163,
+      "printed_page": 121,
+      "unit": 9,
+      "section": "Grammar reference & practice",
+      "image": "books/int/163.webp",
+      "size": 211530,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "b03cc9ed58239d7846ed2acfacad7db1069315c9e439c5d037e80e950b068f61",
+      "text_chars": 3457
+    },
+    {
+      "book": "int",
+      "pdf_page": 164,
+      "printed_page": 122,
+      "unit": 10,
+      "section": "Grammar reference & practice",
+      "image": "books/int/164.webp",
+      "size": 232342,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "71e7e2dde2372a4efe199bf504c9c98ce82f2b8edd611bba04222bff7fed03b4",
+      "text_chars": 3920
+    },
+    {
+      "book": "int",
+      "pdf_page": 165,
+      "printed_page": 123,
+      "unit": 10,
+      "section": "Grammar reference & practice",
+      "image": "books/int/165.webp",
+      "size": 249024,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "ef771d45b8046fbf3cdc354a1e9e5d9706dbf6c411042128fc1715f84cac4537",
+      "text_chars": 4386
+    },
+    {
+      "book": "int",
+      "pdf_page": 166,
+      "printed_page": null,
+      "unit": null,
+      "section": "Обложка / титул",
+      "image": "books/int/166.webp",
+      "size": 196928,
+      "pixels": [
+        1500,
+        2123
+      ],
+      "sha256": "99925b9c16889eedb197e0373712564e9584b072e0cbd709c464b8e29493d529",
+      "text_chars": 1218
+    }
+  ]
+}

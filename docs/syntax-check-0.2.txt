@@ -1,0 +1,5 @@
+
+> unlock-english@0.2.0 check
+> node tools/check.cjs
+
+JavaScript syntax checks passed.

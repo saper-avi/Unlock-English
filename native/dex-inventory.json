@@ -1,0 +1,181 @@
+[
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;-><init>",
+    "registers": 1,
+    "inputs": 1,
+    "code_units": 4,
+    "offset": 3564,
+    "js_exposed": false,
+    "labels": {}
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->doRecognize",
+    "registers": 6,
+    "inputs": 2,
+    "code_units": 57,
+    "offset": 3588,
+    "js_exposed": false,
+    "labels": {
+      "try": 4,
+      "endtry": 46,
+      "failed": 48,
+      "done": 56
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->doSpeak",
+    "registers": 8,
+    "inputs": 3,
+    "code_units": 63,
+    "offset": 3732,
+    "js_exposed": false,
+    "labels": {
+      "bounded": 26,
+      "rate": 34,
+      "unavailable": 50,
+      "done": 62
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->doStop",
+    "registers": 2,
+    "inputs": 1,
+    "code_units": 8,
+    "offset": 3876,
+    "js_exposed": false,
+    "labels": {
+      "done": 7
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->emit",
+    "registers": 8,
+    "inputs": 3,
+    "code_units": 63,
+    "offset": 3908,
+    "js_exposed": false,
+    "labels": {
+      "done": 62
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->findWeb",
+    "registers": 6,
+    "inputs": 1,
+    "code_units": 41,
+    "offset": 4052,
+    "js_exposed": false,
+    "labels": {
+      "group": 7,
+      "loop": 20,
+      "found": 36,
+      "none": 37
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->onActivityResult",
+    "registers": 8,
+    "inputs": 4,
+    "code_units": 63,
+    "offset": 4152,
+    "js_exposed": false,
+    "labels": {
+      "empty": 43,
+      "cancel": 51,
+      "other": 59
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->onCreate",
+    "registers": 6,
+    "inputs": 2,
+    "code_units": 37,
+    "offset": 4296,
+    "js_exposed": false,
+    "labels": {
+      "tts": 29
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->onDestroy",
+    "registers": 2,
+    "inputs": 1,
+    "code_units": 11,
+    "offset": 4388,
+    "js_exposed": false,
+    "labels": {
+      "done": 7
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->onInit",
+    "registers": 5,
+    "inputs": 2,
+    "code_units": 20,
+    "offset": 4428,
+    "js_exposed": false,
+    "labels": {
+      "done": 19
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->onPause",
+    "registers": 1,
+    "inputs": 1,
+    "code_units": 7,
+    "offset": 4484,
+    "js_exposed": false,
+    "labels": {}
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->recognize",
+    "registers": 5,
+    "inputs": 2,
+    "code_units": 12,
+    "offset": 4516,
+    "js_exposed": true,
+    "labels": {}
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->speak",
+    "registers": 6,
+    "inputs": 3,
+    "code_units": 17,
+    "offset": 4556,
+    "js_exposed": true,
+    "labels": {
+      "make": 8
+    }
+  },
+  {
+    "method": "Lapp/unlockenglish/CourseActivity;->stopSpeaking",
+    "registers": 4,
+    "inputs": 1,
+    "code_units": 14,
+    "offset": 4608,
+    "js_exposed": true,
+    "labels": {}
+  },
+  {
+    "method": "Lapp/unlockenglish/VoiceJob;-><init>",
+    "registers": 4,
+    "inputs": 4,
+    "code_units": 10,
+    "offset": 4652,
+    "js_exposed": false,
+    "labels": {}
+  },
+  {
+    "method": "Lapp/unlockenglish/VoiceJob;->run",
+    "registers": 5,
+    "inputs": 1,
+    "code_units": 40,
+    "offset": 4688,
+    "js_exposed": false,
+    "labels": {
+      "slow": 25,
+      "rec": 32,
+      "stop": 36
+    }
+  }
+]

@@ -1,0 +1,5 @@
+
+> unlock-english@0.4.0 build:preview
+> node tools/build-preview.cjs
+
+Created full preview directory: /mnt/data/work04/project/Unlock-English/dist/Unlock-English-0.4-preview

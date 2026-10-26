@@ -1,0 +1,17 @@
+{
+  "environment": "Isolated Chromium, in-memory storage, no file/localhost navigation, no API requests, not Android",
+  "passed": [
+    "Demo celebration: 30 transient particles, 8 scheduled tones, no changes to mission/XP",
+    "Modal exit finishes and restores access to the page",
+    "Wrong answer: explanation visible, exactly 2 scheduled tones",
+    "Correct answer: distinct success styling, exactly 3 scheduled tones",
+    "Quiz with an error and repair completes without falsely completing the daily mission",
+    "Full daily mission completes: writing + quiz + repair, real +20 XP bonus, victory dialog",
+    "Quiet/reduced mode: no new tones, particles or active animations",
+    "Restored state retains XP/settings and does not replay mission celebration or sound",
+    "OS reduced-motion respected; 320px layout does not overflow; Escape closes dialog",
+    "Desktop: all five tabs render; exit snapshots are cleaned up; no horizontal overflow",
+    "No uncaught browser JavaScript errors across all scenarios"
+  ],
+  "page_errors": []
+}

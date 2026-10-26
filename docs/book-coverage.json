@@ -1,0 +1,37 @@
+{
+  "source_pages": 332,
+  "source_books": 2,
+  "units": 20,
+  "interactive_vocabulary_entries": 805,
+  "by_book": {
+    "pre": 383,
+    "int": 422
+  },
+  "vocabulary_by_unit": {
+    "pre-1": 42,
+    "pre-2": 52,
+    "pre-3": 40,
+    "pre-4": 27,
+    "pre-5": 49,
+    "pre-6": 35,
+    "pre-7": 35,
+    "pre-8": 30,
+    "pre-9": 39,
+    "pre-10": 34,
+    "int-1": 53,
+    "int-2": 53,
+    "int-3": 42,
+    "int-4": 37,
+    "int-5": 37,
+    "int-6": 38,
+    "int-7": 32,
+    "int-8": 39,
+    "int-9": 42,
+    "int-10": 49
+  },
+  "excluded_candidates": 120,
+  "duplicate_candidates": 3,
+  "full_exercise_autograding": false,
+  "original_audio_included": false,
+  "level_labels": "Editorial app routes A2→B1 and B1→B2; not first-edition publisher certification"
+}

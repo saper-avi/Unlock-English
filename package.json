@@ -1,0 +1,19 @@
+{
+  "name": "unlock-english",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Unlock English Android: Insight library, matching, vocabulary review and native speech bridge.",
+  "scripts": {
+    "preview": "node tools/preview.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "check": "node tools/check.cjs",
+    "start": "node backend/server.cjs",
+    "build:preview": "node tools/build-preview.cjs",
+    "test:books-browser": "python tests/books-browser.py",
+    "build:voice": "python tools/voice_dex.py",
+    "build:apk": "python native/build_android.py"
+  },
+  "engines": {
+    "node": ">=22.6"
+  }
+}

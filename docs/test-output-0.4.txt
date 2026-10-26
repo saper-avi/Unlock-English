@@ -1,0 +1,566 @@
+
+> unlock-english@0.4.0 test
+> node --test tests/*.test.cjs
+
+TAP version 13
+# Subtest: backend validates consent, bounds, prompt and unexpected fields before any provider call
+ok 1 - backend validates consent, bounds, prompt and unexpected fields before any provider call
+  ---
+  duration_ms: 2.354211
+  type: 'test'
+  ...
+# Subtest: disabled or unconfigured AI is explicit and does not call a provider
+ok 2 - disabled or unconfigured AI is explicit and does not call a provider
+  ---
+  duration_ms: 0.192449
+  type: 'test'
+  ...
+# Subtest: repeated and concurrent submissions share one provider request, returning their own ids
+ok 3 - repeated and concurrent submissions share one provider request, returning their own ids
+  ---
+  duration_ms: 24.354439
+  type: 'test'
+  ...
+# Subtest: an id cannot be reused for different content
+ok 4 - an id cannot be reused for different content
+  ---
+  duration_ms: 0.934896
+  type: 'test'
+  ...
+# Subtest: daily quota persists across restarts and stores no essays or secrets
+ok 5 - daily quota persists across restarts and stores no essays or secrets
+  ---
+  duration_ms: 4.382331
+  type: 'test'
+  ...
+# Subtest: minute and daily limits prevent additional paid requests
+ok 6 - minute and daily limits prevent additional paid requests
+  ---
+  duration_ms: 0.906544
+  type: 'test'
+  ...
+# Subtest: provider failure clears pending state but still consumes an attempt allowance
+ok 7 - provider failure clears pending state but still consumes an attempt allowance
+  ---
+  duration_ms: 0.636147
+  type: 'test'
+  ...
+# Subtest: prompt-injection text stays in untrusted input, not instructions; request has no tools or device permissions
+ok 8 - prompt-injection text stays in untrusted input, not instructions; request has no tools or device permissions
+  ---
+  duration_ms: 0.298479
+  type: 'test'
+  ...
+# Subtest: provider adapter parses and validates a Responses API structured result
+ok 9 - provider adapter parses and validates a Responses API structured result
+  ---
+  duration_ms: 1.33643
+  type: 'test'
+  ...
+# Subtest: provider auth, limits and 5xx return safe messages without leaking upstream secrets
+ok 10 - provider auth, limits and 5xx return safe messages without leaking upstream secrets
+  ---
+  duration_ms: 1.287176
+  type: 'test'
+  ...
+# Subtest: provider refuses truncated, refused, malformed JSON and source-inconsistent feedback
+ok 11 - provider refuses truncated, refused, malformed JSON and source-inconsistent feedback
+  ---
+  duration_ms: 2.283344
+  type: 'test'
+  ...
+# Subtest: provider timeout aborts fetch and gives an explicit recoverable error
+ok 12 - provider timeout aborts fetch and gives an explicit recoverable error
+  ---
+  duration_ms: 6.606747
+  type: 'test'
+  ...
+# Subtest: HTTP API requires auth and a valid same-origin JSON request
+ok 13 - HTTP API requires auth and a valid same-origin JSON request
+  ---
+  duration_ms: 68.146882
+  type: 'test'
+  ...
+# Subtest: HTTP server exposes only public web files, not .env, quota, sources or path traversal
+ok 14 - HTTP server exposes only public web files, not .env, quota, sources or path traversal
+  ---
+  duration_ms: 18.574635
+  type: 'test'
+  ...
+# Subtest: HTTP body and method guards reject oversized, malformed or GET analysis requests
+ok 15 - HTTP body and method guards reject oversized, malformed or GET analysis requests
+  ---
+  duration_ms: 10.00655
+  type: 'test'
+  ...
+# Subtest: HTTP build serves the new motion and sound assets with correct types
+ok 16 - HTTP build serves the new motion and sound assets with correct types
+  ---
+  duration_ms: 7.399869
+  type: 'test'
+  ...
+# Subtest: book supplement assets and both first/last pages are served safely; source prompts accepted by backend
+ok 17 - book supplement assets and both first/last pages are served safely; source prompts accepted by backend
+  ---
+  duration_ms: 73.101984
+  type: 'test'
+  ...
+# Subtest: two distinct books and every one of 332 source pages has an actual image
+ok 18 - two distinct books and every one of 332 source pages has an actual image
+  ---
+  duration_ms: 3.393554
+  type: 'test'
+  ...
+# Subtest: 805 source-linked cards and unique stable ids
+ok 19 - 805 source-linked cards and unique stable ids
+  ---
+  duration_ms: 0.926453
+  type: 'test'
+  ...
+# Subtest: all 20 original units have vocabulary, speaking, writing, grammar and source sections
+ok 20 - all 20 original units have vocabulary, speaking, writing, grammar and source sections
+  ---
+  duration_ms: 2.383214
+  type: 'test'
+  ...
+# Subtest: original 96 quiz questions and 24 writing topics remain alongside 80/20 new tasks
+ok 21 - original 96 quiz questions and 24 writing topics remain alongside 80/20 new tasks
+  ---
+  duration_ms: 0.81776
+  type: 'test'
+  ...
+# Subtest: answer normalization: curly apostrophes, case, spaces; not fuzzy grammar acceptance
+ok 22 - answer normalization: curly apostrophes, case, spaces; not fuzzy grammar acceptance
+  ---
+  duration_ms: 1.421278
+  type: 'test'
+  ...
+# Subtest: review intervals advance and errors reset to a short revisit
+ok 23 - review intervals advance and errors reset to a short revisit
+  ---
+  duration_ms: 0.552441
+  type: 'test'
+  ...
+# Subtest: duplicate result event cannot change mastery twice
+ok 24 - duplicate result event cannot change mastery twice
+  ---
+  duration_ms: 0.4321
+  type: 'test'
+  ...
+# Subtest: due and new cards precede future cards, independent of locale
+ok 25 - due and new cards precede future cards, independent of locale
+  ---
+  duration_ms: 9.805788
+  type: 'test'
+  ...
+# Subtest: matching creates one-to-one pairs, no ambiguous duplicate translations
+ok 26 - matching creates one-to-one pairs, no ambiguous duplicate translations
+  ---
+  duration_ms: 0.961345
+  type: 'test'
+  ...
+# Subtest: wrong pairs retry, duplicate pair does not count, first-try distinction survives
+ok 27 - wrong pairs retry, duplicate pair does not count, first-try distinction survives
+  ---
+  duration_ms: 1.563892
+  type: 'test'
+  ...
+# Subtest: rewards idempotent per day/unit/mode and cannot finish a mission
+ok 28 - rewards idempotent per day/unit/mode and cannot finish a mission
+  ---
+  duration_ms: 0.43176
+  type: 'test'
+  ...
+# Subtest: speech comparison expands contractions and measures word order, not phonetics
+ok 29 - speech comparison expands contractions and measures word order, not phonetics
+  ---
+  duration_ms: 1.306275
+  type: 'test'
+  ...
+# Subtest: bookmarks use PDF page ids including covers and appended workbook numbering
+ok 30 - bookmarks use PDF page ids including covers and appended workbook numbering
+  ---
+  duration_ms: 0.370347
+  type: 'test'
+  ...
+# Subtest: source taxonomy covers cumulative reviews, vocabulary and grammar appendices
+ok 31 - source taxonomy covers cumulative reviews, vocabulary and grammar appendices
+  ---
+  duration_ms: 0.257748
+  type: 'test'
+  ...
+# Subtest: imports repair malformed custom cards and reject prototype ids
+ok 32 - imports repair malformed custom cards and reject prototype ids
+  ---
+  duration_ms: 1.392815
+  type: 'test'
+  ...
+# Subtest: custom cards keep an actual source reference and update their own translation
+ok 33 - custom cards keep an actual source reference and update their own translation
+  ---
+  duration_ms: 0.612061
+  type: 'test'
+  ...
+# Subtest: word state, source notes, consent and utterances survive JSON export/import
+ok 34 - word state, source notes, consent and utterances survive JSON export/import
+  ---
+  duration_ms: 0.611019
+  type: 'test'
+  ...
+# Subtest: native speech adapter ignores stale and duplicate callbacks
+ok 35 - native speech adapter ignores stale and duplicate callbacks
+  ---
+  duration_ms: 2.324406
+  type: 'test'
+  ...
+# Subtest: voice cancellation and timeout return no fabricated score
+ok 36 - voice cancellation and timeout return no fabricated score
+  ---
+  duration_ms: 1.717182
+  type: 'test'
+  ...
+# Subtest: native TTS is bounded and separate from speech recognition
+ok 37 - native TTS is bounded and separate from speech recognition
+  ---
+  duration_ms: 1.545905
+  type: 'test'
+  ...
+# Subtest: bank: 96 unique questions, 24 topics, balanced A1–B2
+ok 38 - bank: 96 unique questions, 24 topics, balanced A1–B2
+  ---
+  duration_ms: 2.700587
+  type: 'test'
+  ...
+# Subtest: every quiz answer is valid; choices contain the correct answer
+ok 39 - every quiz answer is valid; choices contain the correct answer
+  ---
+  duration_ms: 1.215868
+  type: 'test'
+  ...
+# Subtest: normalization accepts case/whitespace but not a different tense
+ok 40 - normalization accepts case/whitespace but not a different tense
+  ---
+  duration_ms: 0.207863
+  type: 'test'
+  ...
+# Subtest: daily mission is deterministic and uses the selected level
+ok 41 - daily mission is deterministic and uses the selected level
+  ---
+  duration_ms: 1.476691
+  type: 'test'
+  ...
+# Subtest: daily quiz awards 50 XP and ignores repeat checks after completion
+ok 42 - daily quiz awards 50 XP and ignores repeat checks after completion
+  ---
+  duration_ms: 0.77803
+  type: 'test'
+  ...
+# Subtest: wrong answers require repair and enter tomorrow’s review
+ok 43 - wrong answers require repair and enter tomorrow’s review
+  ---
+  duration_ms: 9.863515
+  type: 'test'
+  ...
+# Subtest: writing and completion rewards are idempotent: 50 + 30 + 20 XP
+ok 44 - writing and completion rewards are idempotent: 50 + 30 + 20 XP
+  ---
+  duration_ms: 1.84156
+  type: 'test'
+  ...
+# Subtest: incomplete mission cannot be completed
+ok 45 - incomplete mission cannot be completed
+  ---
+  duration_ms: 1.318242
+  type: 'test'
+  ...
+# Subtest: all 24 reference texts satisfy the app’s local writing gate
+ok 46 - all 24 reference texts satisfy the app’s local writing gate
+  ---
+  duration_ms: 2.410115
+  type: 'test'
+  ...
+# Subtest: local writing rejects empty/non-English/repetitive input
+ok 47 - local writing rejects empty/non-English/repetitive input
+  ---
+  duration_ms: 0.642777
+  type: 'test'
+  ...
+# Subtest: state restoration preserves draft, progress and active quiz
+ok 48 - state restoration preserves draft, progress and active quiz
+  ---
+  duration_ms: 0.577508
+  type: 'test'
+  ...
+# Subtest: calendar shifts and streak behavior across missing days
+ok 49 - calendar shifts and streak behavior across missing days
+  ---
+  duration_ms: 0.309135
+  type: 'test'
+  ...
+# Subtest: preserved original APK and assets have their recorded SHA-256 hashes
+ok 50 - preserved original APK and assets have their recorded SHA-256 hashes
+  ---
+  duration_ms: 4.768301
+  type: 'test'
+  ...
+# Subtest: fixed demonstration obeys the response contract and references real source fragments
+ok 51 - fixed demonstration obeys the response contract and references real source fragments
+  ---
+  duration_ms: 2.452328
+  type: 'test'
+  ...
+# Subtest: stable sentence ids distinguish repeated fragments across sentences and Unicode
+ok 52 - stable sentence ids distinguish repeated fragments across sentences and Unicode
+  ---
+  duration_ms: 1.707668
+  type: 'test'
+  ...
+# Subtest: nonexistent fragments, invalid category, duplicate errors and artificial no-op fixes are rejected
+ok 53 - nonexistent fragments, invalid category, duplicate errors and artificial no-op fixes are rejected
+  ---
+  duration_ms: 0.689827
+  type: 'test'
+  ...
+# Subtest: strict schema rejects extra fields, string scores and grades outside 0–10
+ok 54 - strict schema rejects extra fields, string scores and grades outside 0–10
+  ---
+  duration_ms: 0.614454
+  type: 'test'
+  ...
+# Subtest: a correct text may return zero errors and a null score
+ok 55 - a correct text may return zero errors and a null score
+  ---
+  duration_ms: 0.251338
+  type: 'test'
+  ...
+# Subtest: cannot_assess has no invented scores, edits, suggestions or learning priorities
+ok 56 - cannot_assess has no invented scores, edits, suggestions or learning priorities
+  ---
+  duration_ms: 0.446452
+  type: 'test'
+  ...
+# Subtest: reviews migrate safely, deduplicate identical versions, and never change mission or XP
+ok 57 - reviews migrate safely, deduplicate identical versions, and never change mission or XP
+  ---
+  duration_ms: 1.060054
+  type: 'test'
+  ...
+# Subtest: past-simple feedback selects real A2 bank questions, not generated content
+ok 58 - past-simple feedback selects real A2 bank questions, not generated content
+  ---
+  duration_ms: 0.769928
+  type: 'test'
+  ...
+# Subtest: preferred questions affect only a new day, with at most two and no cross-level duplicates
+ok 59 - preferred questions affect only a new day, with at most two and no cross-level duplicates
+  ---
+  duration_ms: 1.251462
+  type: 'test'
+  ...
+# Subtest: saving unchanged writing is idempotent for history and XP; a revised version is retained
+ok 60 - saving unchanged writing is idempotent for history and XP; a revised version is retained
+  ---
+  duration_ms: 3.076417
+  type: 'test'
+  ...
+# Subtest: client refuses an OpenAI key in place of a personal server token without a network call
+ok 61 - client refuses an OpenAI key in place of a personal server token without a network call
+  ---
+  duration_ms: 1.284512
+  type: 'test'
+  ...
+# Subtest: client validates submission identity and server-origin source
+ok 62 - client validates submission identity and server-origin source
+  ---
+  duration_ms: 0.516517
+  type: 'test'
+  ...
+# Subtest: client cancellation releases pending state and does not erase user data
+ok 63 - client cancellation releases pending state and does not erase user data
+  ---
+  duration_ms: 0.489467
+  type: 'test'
+  ...
+# Subtest: content bank is byte-identical to the recovered original
+ok 64 - content bank is byte-identical to the recovered original
+  ---
+  duration_ms: 0.452291
+  type: 'test'
+  ...
+# Subtest: historical 0.3 regression fixture has seven ordered inline scripts with matching CSP hashes and no network permission
+ok 65 - historical 0.3 regression fixture has seven ordered inline scripts with matching CSP hashes and no network permission
+  ---
+  duration_ms: 6.836962
+  type: 'test'
+  ...
+# Subtest: default configuration leaves AI disabled and API key blank
+ok 66 - default configuration leaves AI disabled and API key blank
+  ---
+  duration_ms: 5.733093
+  type: 'test'
+  ...
+# Subtest: UI controller renders onboarding, writing topics, practice and progress without runtime errors
+ok 67 - UI controller renders onboarding, writing topics, practice and progress without runtime errors
+  ---
+  duration_ms: 43.016187
+  type: 'test'
+  ...
+# Subtest: demo modal does not send a request, replace the draft, award XP or add a review
+ok 68 - demo modal does not send a request, replace the draft, award XP or add a review
+  ---
+  duration_ms: 15.417247
+  type: 'test'
+  ...
+# Subtest: AI review is sent only after consent; result is saved separately from mission and tokens
+ok 69 - AI review is sent only after consent; result is saved separately from mission and tokens
+  ---
+  duration_ms: 13.798423
+  type: 'test'
+  ...
+# Subtest: feedback received after editing is not attached to the new draft
+ok 70 - feedback received after editing is not attached to the new draft
+  ---
+  duration_ms: 9.815693
+  type: 'test'
+  ...
+# Subtest: model text is escaped, not rendered as executable HTML
+ok 71 - model text is escaped, not rendered as executable HTML
+  ---
+  duration_ms: 9.104573
+  type: 'test'
+  ...
+# Subtest: a failed AI review retains the draft and local writing can still be saved
+ok 72 - a failed AI review retains the draft and local writing can still be saved
+  ---
+  duration_ms: 4.480769
+  type: 'test'
+  ...
+# Subtest: AI recommendations populate real practice and review history can be opened
+ok 73 - AI recommendations populate real practice and review history can be opened
+  ---
+  duration_ms: 12.244305
+  type: 'test'
+  ...
+# Subtest: UX demo never changes learning progress or awards XP
+ok 74 - UX demo never changes learning progress or awards XP
+  ---
+  duration_ms: 4.305475
+  type: 'test'
+  ...
+# Subtest: answer feedback is emitted once per check, never on duplicate checks
+ok 75 - answer feedback is emitted once per check, never on duplicate checks
+  ---
+  duration_ms: 4.516472
+  type: 'test'
+  ...
+# Subtest: mission celebrates once when writing follows the quiz; revisiting does not repeat it
+ok 76 - mission celebrates once when writing follows the quiz; revisiting does not repeat it
+  ---
+  duration_ms: 7.740983
+  type: 'test'
+  ...
+# Subtest: mission celebrates when writing is completed before the quiz
+ok 77 - mission celebrates when writing is completed before the quiz
+  ---
+  duration_ms: 7.202303
+  type: 'test'
+  ...
+# Subtest: sound and motion settings do not overwrite learning state
+ok 78 - sound and motion settings do not overwrite learning state
+  ---
+  duration_ms: 3.233684
+  type: 'test'
+  ...
+# Subtest: preferences normalize missing, corrupt and out-of-range values
+ok 79 - preferences normalize missing, corrupt and out-of-range values
+  ---
+  duration_ms: 1.943103
+  type: 'test'
+  ...
+# Subtest: no audio context or cue before a user interaction
+ok 80 - no audio context or cue before a user interaction
+  ---
+  duration_ms: 0.411589
+  type: 'test'
+  ...
+# Subtest: distinct correct and error cues schedule bounded oscillator envelopes
+ok 81 - distinct correct and error cues schedule bounded oscillator envelopes
+  ---
+  duration_ms: 2.026738
+  type: 'test'
+  ...
+# Subtest: one shared audio context is reused across all cues
+ok 82 - one shared audio context is reused across all cues
+  ---
+  duration_ms: 0.452801
+  type: 'test'
+  ...
+# Subtest: mute stops an active fanfare and prevents subsequent playback
+ok 83 - mute stops an active fanfare and prevents subsequent playback
+  ---
+  duration_ms: 0.423447
+  type: 'test'
+  ...
+# Subtest: volume zero, hidden document and unknown cue are silent
+ok 84 - volume zero, hidden document and unknown cue are silent
+  ---
+  duration_ms: 0.205779
+  type: 'test'
+  ...
+# Subtest: missing or throwing Web Audio does not break learning
+ok 85 - missing or throwing Web Audio does not break learning
+  ---
+  duration_ms: 0.361063
+  type: 'test'
+  ...
+# Subtest: suspended audio is resumed and scheduled after activation
+ok 86 - suspended audio is resumed and scheduled after activation
+  ---
+  duration_ms: 0.244558
+  type: 'test'
+  ...
+# Subtest: a pending resume cannot play after sound is disabled
+ok 87 - a pending resume cannot play after sound is disabled
+  ---
+  duration_ms: 0.53221
+  type: 'test'
+  ...
+# Subtest: settings persist independently from learning progress
+ok 88 - settings persist independently from learning progress
+  ---
+  duration_ms: 0.817369
+  type: 'test'
+  ...
+# Subtest: storage denial does not prevent settings or render
+ok 89 - storage denial does not prevent settings or render
+  ---
+  duration_ms: 0.540944
+  type: 'test'
+  ...
+# Subtest: OS reduced motion overrides animation preference and reacts to changes
+ok 90 - OS reduced motion overrides animation preference and reacts to changes
+  ---
+  duration_ms: 0.27902
+  type: 'test'
+  ...
+# Subtest: cancelling motion does not leave an unhandled rejection
+ok 91 - cancelling motion does not leave an unhandled rejection
+  ---
+  duration_ms: 0.364097
+  type: 'test'
+  ...
+# Subtest: fallback rendering works without Web Animations
+ok 92 - fallback rendering works without Web Animations
+  ---
+  duration_ms: 0.170306
+  type: 'test'
+  ...
+1..92
+# tests 92
+# suites 0
+# pass 92
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 435.619605
